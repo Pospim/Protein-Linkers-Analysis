@@ -1,0 +1,12 @@
+Interpro displays two complementary domain annotations:
+'Representative domains' are consensus sequence-based annotations derived from databases such as Pfam, SMART etc.
+'TED domains' are automatically predicted strucure-based segments from AlphaFOld models.
+Representative domains reflkect curated functional units while TED domains reflect compact structural units that may merge, split or overal those curated regions.
+
+
+For searching domains and their coordinates, I have created a python script that queries InterPro for a given accession and returns
+- representative domains if representative_only==True
+- all domains if representative_only==False
+
+I also enables me to specify source databases.
+
