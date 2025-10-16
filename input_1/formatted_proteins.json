@@ -1,0 +1,4449 @@
+{
+  "P0A7I0": {
+    "domains": [
+      [
+        "peptide chain release factor 1",
+        1,
+        358
+      ],
+      [
+        "Release factor",
+        12,
+        353
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        7
+      ]
+    ]
+  },
+  "P67809": {
+    "domains": [
+      [
+        "Cold shock domain-containing protein",
+        18,
+        324
+      ],
+      [
+        "Nucleic acid-binding proteins",
+        48,
+        130
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        17
+      ],
+      [
+        "c-terminus",
+        194
+      ]
+    ]
+  },
+  "Q9SZZ8": {
+    "domains": [
+      [
+        "BETA-CAROTENE 3-HYDROXYLASE 1, CHLOROPLASTIC",
+        1,
+        301
+      ],
+      [
+        "Fatty acid hydroxylase",
+        145,
+        272
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        38
+      ]
+    ]
+  },
+  "O75323": {
+    "domains": [
+      [
+        "NipSnap domain-containing protein",
+        29,
+        286
+      ],
+      [
+        "Dimeric alpha+beta barrel",
+        180,
+        286
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        28
+      ]
+    ]
+  },
+  "P0A7L0": {
+    "domains": [
+      [
+        "Large ribosomal subunit protein uL1 [rplA]",
+        2,
+        229
+      ],
+      [
+        "Ribosomal protein L1",
+        6,
+        225
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        9
+      ]
+    ]
+  },
+  "P01112": {
+    "domains": [
+      [
+        "small GTPase Ras family profile",
+        1,
+        188
+      ],
+      [
+        "RAS, DI-RAS, AND RHEB FAMILY MEMBERS OF SMALL GTPASE SUPERFAMILY",
+        3,
+        166
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        23
+      ]
+    ]
+  },
+  "P68366": {
+    "domains": [
+      [
+        "Tubulin/FtsZ, GTPase domain",
+        1,
+        268
+      ],
+      [
+        "Helix hairpin bin",
+        384,
+        448
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        115
+      ]
+    ]
+  },
+  "P07437": {
+    "domains": [],
+    "linkers": [
+      [
+        "n-terminus",
+        444
+      ]
+    ]
+  },
+  "P68871": {
+    "domains": [],
+    "linkers": [
+      [
+        "n-terminus",
+        147
+      ]
+    ]
+  },
+  "P27487": {
+    "domains": [
+      [
+        "Serine Protease S9B/DPPIV Subfamily",
+        9,
+        763
+      ],
+      [
+        "DPP6 N-terminal domain-like",
+        40,
+        508
+      ],
+      [
+        "alpha/beta hydrolase",
+        497,
+        765
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        8
+      ]
+    ]
+  },
+  "P0A7Z4": {
+    "domains": [
+      [
+        "DNA-directed RNA polymerase subunit alpha",
+        4,
+        327
+      ],
+      [
+        "RBP11-like subunits of RNA polymerase",
+        6,
+        53
+      ],
+      [
+        "Insert subdomain of RNA polymerase alpha subunit",
+        53,
+        178
+      ],
+      [
+        "RBP11-like subunits of RNA polymerase",
+        179,
+        231
+      ],
+      [
+        "5' to 3' exonuclease, C-terminal subdomain",
+        244,
+        329
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "inner",
+        12
+      ]
+    ]
+  },
+  "P0A7V3": {
+    "domains": [
+      [
+        "30S ribosomal protein S3",
+        1,
+        209
+      ],
+      [
+        "type II K-homology (KH) RNA-binding domain found in 30S ribosomal protein S3 and similar proteins",
+        2,
+        109
+      ],
+      [
+        "Ribosomal protein S3, C-terminal domain",
+        109,
+        233
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A7H0": {
+    "domains": [
+      [
+        "DNA replication and repair protein RecF [recF]",
+        1,
+        357
+      ],
+      [
+        "RecF/RecN/SMC N terminal domain",
+        3,
+        355
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        2
+      ]
+    ]
+  },
+  "P0A7R1": {
+    "domains": [
+      [
+        "L9 N-domain-like",
+        1,
+        57
+      ],
+      [
+        "Large ribosomal subunit protein bL9 [rplI]",
+        1,
+        149
+      ],
+      [
+        "Ribosomal protein L9 C-domain",
+        60,
+        149
+      ]
+    ],
+    "linkers": []
+  },
+  "Q96PU5": {
+    "domains": [
+      [
+        "C2 domain",
+        15,
+        188
+      ],
+      [
+        "E3 ubiquitin-protein ligase, SMURF1 type",
+        18,
+        971
+      ],
+      [
+        "Hect, E3 ligase catalytic domains",
+        549,
+        742
+      ],
+      [
+        "Hect, E3 ligase catalytic domain",
+        743,
+        819
+      ],
+      [
+        "Hect, E3 ligase catalytic domains",
+        820,
+        851
+      ],
+      [
+        "Hect, E3 ligase catalytic domain",
+        856,
+        975
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        14
+      ],
+      [
+        "inner",
+        4
+      ]
+    ]
+  },
+  "P00797": {
+    "domains": [
+      [
+        "Prokaryotic membrane lipoprotein lipid attachment site profile",
+        1,
+        20
+      ],
+      [
+        "BETA-SITE APP-CLEAVING ENZYME, ISOFORM A-RELATED",
+        21,
+        403
+      ],
+      [
+        "Acid proteases",
+        31,
+        405
+      ]
+    ],
+    "linkers": []
+  },
+  "Q86YZ3": {
+    "domains": [
+      [
+        "EF-hand",
+        1,
+        119
+      ],
+      [
+        "S100-fused Epidermal Structural Protein",
+        1524,
+        2014
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        1404
+      ],
+      [
+        "c-terminus",
+        836
+      ]
+    ]
+  },
+  "P0A8J8": {
+    "domains": [
+      [
+        "ATP-dependent RNA helicase RhlB",
+        1,
+        419
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        2,
+        217
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        218,
+        381
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        40
+      ]
+    ]
+  },
+  "Q13501": {
+    "domains": [
+      [
+        "Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1",
+        1,
+        102
+      ],
+      [
+        "Autophagy Receptor and Signaling Regulator",
+        1,
+        438
+      ],
+      [
+        "RING/U-box",
+        112,
+        173
+      ],
+      [
+        "UBA domain",
+        379,
+        440
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        205
+      ]
+    ]
+  },
+  "P00156": {
+    "domains": [
+      [
+        "Cytochrome b/b6 N-terminal region profile",
+        1,
+        209
+      ],
+      [
+        "Cytochrome b",
+        5,
+        378
+      ],
+      [
+        "Cytochrome b/b6 C-terminal region profile",
+        210,
+        380
+      ]
+    ],
+    "linkers": []
+  },
+  "Q9Z1Q5": {
+    "domains": [
+      [
+        "Glutaredoxin",
+        1,
+        97
+      ],
+      [
+        "Chloride intracellular channel",
+        2,
+        240
+      ]
+    ],
+    "linkers": []
+  },
+  "P01009": {
+    "domains": [
+      [
+        "Serpins",
+        6,
+        415
+      ],
+      [
+        "SERINE PROTEASE INHIBITOR, SERPIN",
+        50,
+        416
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        5
+      ],
+      [
+        "c-terminus",
+        2
+      ]
+    ]
+  },
+  "Q9Y6R1": {
+    "domains": [
+      [
+        "Mannitol-specific EII; Chain A",
+        102,
+        412
+      ],
+      [
+        "anion exchange protein",
+        109,
+        1036
+      ],
+      [
+        "HCO3- transporter integral membrane domain",
+        441,
+        1006
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        101
+      ],
+      [
+        "c-terminus",
+        73
+      ]
+    ]
+  },
+  "P0A7A7": {
+    "domains": [
+      [
+        "glycerol-3-phosphate 1-O-acyltransferase PlsB",
+        1,
+        805
+      ],
+      [
+        "Glycerol-3-phosphate (1)-acyltransferase",
+        245,
+        482
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        325
+      ]
+    ]
+  },
+  "P47871": {
+    "domains": [
+      [
+        "G-protein coupled receptor 2",
+        11,
+        444
+      ],
+      [
+        "Hormone receptor domain",
+        14,
+        149
+      ],
+      [
+        "Rhodopsin 7-helix transmembrane proteins",
+        124,
+        439
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        10
+      ],
+      [
+        "c-terminus",
+        38
+      ]
+    ]
+  },
+  "Q9Y243": {
+    "domains": [
+      [
+        "Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)",
+        1,
+        118
+      ],
+      [
+        "Serine/threonine-protein kinase",
+        113,
+        475
+      ],
+      [
+        "Catalytic domain of the Serine/Threonine Kinase, Protein Kinase B gamma (also called Akt3)",
+        132,
+        479
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A7J7": {
+    "domains": [
+      [
+        "Ribosomal protein L11/L12, N-terminal domain",
+        2,
+        69
+      ],
+      [
+        "50S ribosomal protein L11",
+        3,
+        142
+      ],
+      [
+        "Ribosomal protein L11, C-terminal domain",
+        70,
+        142
+      ]
+    ],
+    "linkers": []
+  },
+  "P00734": {
+    "domains": [
+      [
+        "Thrombin",
+        1,
+        620
+      ],
+      [
+        "Domain containing Gla (gamma-carboxyglutamate) residues.",
+        25,
+        88
+      ],
+      [
+        "Kringle-like",
+        103,
+        197
+      ],
+      [
+        "Plasminogen Kringle 4",
+        206,
+        295
+      ],
+      [
+        "Thrombin light chain domain",
+        296,
+        363
+      ],
+      [
+        "Serine proteases, trypsin domain profile",
+        364,
+        618
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        14
+      ],
+      [
+        "inner",
+        8
+      ],
+      [
+        "c-terminus",
+        4
+      ]
+    ]
+  },
+  "P0A8V2": {
+    "domains": [
+      [
+        "DNA-directed RNA polymerase subunit beta",
+        8,
+        1339
+      ],
+      [
+        "RNA polymerase Rpb2, domain 2",
+        151,
+        233
+      ],
+      [
+        "RNA polymerase Rpb2, domain 2",
+        228,
+        440
+      ],
+      [
+        "DNA-directed RNA polymerase, beta subunit, external 1 domain",
+        590,
+        656
+      ],
+      [
+        "RNA polymerase Rpb2, domain 6",
+        717,
+        1264
+      ],
+      [
+        "RNA polymerase Rpb2, domain 7",
+        1266,
+        1341
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        7
+      ],
+      [
+        "inner",
+        149
+      ],
+      [
+        "inner",
+        60
+      ]
+    ]
+  },
+  "Q9Y2Q5": {
+    "domains": [
+      [
+        "Dynein light chain 2a, cytoplasmic",
+        1,
+        125
+      ],
+      [
+        "LATE ENDOSOMAL/LYSOSOMAL MP1 INTERACTING PROTEIN",
+        1,
+        125
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A7W1": {
+    "domains": [
+      [
+        "Small ribosomal subunit protein uS5 [rpsE]",
+        1,
+        163
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        4
+      ]
+    ]
+  },
+  "Q9Y2W1": {
+    "domains": [
+      [
+        "THRAP3/BCLAF1",
+        14,
+        937
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        13
+      ],
+      [
+        "c-terminus",
+        18
+      ]
+    ]
+  },
+  "P08670": {
+    "domains": [
+      [
+        "Intermediate filament structural protein",
+        4,
+        454
+      ],
+      [
+        "Intermediate filament (IF) rod domain profile",
+        103,
+        411
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "c-terminus",
+        55
+      ]
+    ]
+  },
+  "Q96EP0": {
+    "domains": [
+      [
+        "B-box-type 1 zinc finger found in HOIL-1-interacting protein (HOIP) and similar proteins",
+        217,
+        258
+      ],
+      [
+        "Zinc finger RanBP2 type profile",
+        299,
+        329
+      ],
+      [
+        "Zinc finger, RanBP2-type",
+        350,
+        383
+      ],
+      [
+        "Zinc finger domain",
+        411,
+        435
+      ],
+      [
+        "RING FINGER PROTEIN 31-RELATED",
+        463,
+        1064
+      ],
+      [
+        "DNA helicase RuvA subunit, C-terminal domain",
+        529,
+        589
+      ],
+      [
+        "E3 ubiquitin-protein ligase RNF31, UBA domain",
+        632,
+        685
+      ],
+      [
+        "Zinc/RING finger domain, C3HC4 (zinc finger)",
+        695,
+        787
+      ],
+      [
+        "BRcat domain found in HOIL-1-interacting protein (HOIP) and similar proteins",
+        775,
+        852
+      ],
+      [
+        "Rcat domain found in HOIL-1-interacting protein (HOIP) and similar proteins",
+        853,
+        937
+      ],
+      [
+        "E3 Ubiquitin Ligase RBR C-terminal domain",
+        941,
+        1032
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        216
+      ],
+      [
+        "inner",
+        40
+      ],
+      [
+        "inner",
+        20
+      ],
+      [
+        "inner",
+        27
+      ],
+      [
+        "inner",
+        27
+      ],
+      [
+        "inner",
+        42
+      ],
+      [
+        "inner",
+        9
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "c-terminus",
+        40
+      ]
+    ]
+  },
+  "P38936": {
+    "domains": [
+      [
+        "CYCLIN-DEPENDENT KINASE INHIBITOR 1-RELATED",
+        1,
+        164
+      ],
+      [
+        "p27",
+        14,
+        87
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        77
+      ]
+    ]
+  },
+  "P02768": {
+    "domains": [
+      [
+        "SERUM ALBUMIN-RELATED",
+        1,
+        607
+      ],
+      [
+        "Albumin domain profile",
+        19,
+        210
+      ],
+      [
+        "Albumin domain profile",
+        211,
+        403
+      ],
+      [
+        "Albumin domain profile",
+        404,
+        601
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        8
+      ]
+    ]
+  },
+  "Q9NR33": {
+    "domains": [
+      [
+        "Histone, subunit A",
+        20,
+        117
+      ],
+      [
+        "Transcription and DNA Replication Regulators",
+        37,
+        114
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        19
+      ],
+      [
+        "c-terminus",
+        3
+      ]
+    ]
+  },
+  "P68133": {
+    "domains": [
+      [
+        "Actin-like ATPase domain",
+        5,
+        155
+      ],
+      [
+        "Actin",
+        5,
+        377
+      ],
+      [
+        "Actin-like ATPase domain",
+        149,
+        377
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        4
+      ]
+    ]
+  },
+  "P0A7G2": {
+    "domains": [
+      [
+        "RIBOSOME-BINDING FACTOR A, CHLOROPLASTIC-RELATED",
+        4,
+        131
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "c-terminus",
+        2
+      ]
+    ]
+  },
+  "P68872": {
+    "domains": [
+      [
+        "Hemoglobin and related oxygen transporters",
+        1,
+        147
+      ],
+      [
+        "Globins",
+        2,
+        147
+      ]
+    ],
+    "linkers": []
+  },
+  "P49841": {
+    "domains": [
+      [
+        "Glycogen Synthase Kinase-3",
+        29,
+        384
+      ],
+      [
+        "Phosphorylase Kinase; domain 1",
+        40,
+        136
+      ],
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        137,
+        383
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        28
+      ],
+      [
+        "c-terminus",
+        37
+      ]
+    ]
+  },
+  "P15056": {
+    "domains": [
+      [
+        "Ras-binding domain (RBD) found in serine/threonine-protein kinase BRAF",
+        154,
+        232
+      ],
+      [
+        "protein kinase C conserved region 1 (C1 domain) found in B-Raf (Rapidly Accelerated Fibrosarcoma) kinase and similar proteins",
+        230,
+        289
+      ],
+      [
+        "Serine/Threonine Kinases and Pseudokinases",
+        338,
+        717
+      ],
+      [
+        "Phosphorylase Kinase; domain 1",
+        443,
+        533
+      ],
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        534,
+        722
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        153
+      ],
+      [
+        "inner",
+        48
+      ],
+      [
+        "c-terminus",
+        44
+      ]
+    ]
+  },
+  "P61981": {
+    "domains": [
+      [
+        "14-3-3 gamma, an isoform of 14-3-3 protein",
+        2,
+        247
+      ],
+      [
+        "14-3-3 protein",
+        3,
+        243
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        4
+      ]
+    ]
+  },
+  "P0DTD1": {
+    "domains": [
+      [
+        "Betacoronavirus replicase NSP1",
+        9,
+        131
+      ],
+      [
+        "Coronavirus (CoV) Nsp1 globular domain profile",
+        12,
+        127
+      ],
+      [
+        "C-terminal domain of non-structural protein 1 from Severe acute respiratory syndrome-related coronavirus and betacoronavirus in the B lineage",
+        128,
+        180
+      ],
+      [
+        "betacoronavirus non-structural protein 2 (Nsp2) similar to SARS-CoV Nsp2, and related proteins from betacoronaviruses in the B lineage",
+        182,
+        818
+      ],
+      [
+        "Coronavirus replicase NSP2, N-terminal",
+        184,
+        423
+      ],
+      [
+        "NSP3A-like",
+        819,
+        929
+      ],
+      [
+        "Betacoronavirus replicase NSP3, N-terminal",
+        880,
+        1050
+      ],
+      [
+        "Leucine Aminopeptidase, subunit E, domain 1",
+        1020,
+        1195
+      ],
+      [
+        "Nsp3, SUD-N subdomain",
+        1231,
+        1361
+      ],
+      [
+        "Betacoronavirus single-stranded poly(A) binding domain",
+        1351,
+        1493
+      ],
+      [
+        "C-terminal SARS-Unique Domain (SUD) of non-structural protein 3 (Nsp3) from Severe Acute Respiratory Syndrome coronavirus and related betacoronaviruses in the B lineage",
+        1496,
+        1561
+      ],
+      [
+        "Coronavirus papain-like peptidase",
+        1564,
+        1882
+      ],
+      [
+        "Replicase polyprotein, nucleic acid-binding domain",
+        1906,
+        2021
+      ],
+      [
+        "betacoronavirus-specific marker of non-structural protein 3 from Severe acute respiratory syndrome-related coronavirus and betacoronavirus in the B lineage",
+        2044,
+        2159
+      ],
+      [
+        "C-terminus of non-structural protein 3, including transmembrane and Y domains, from Severe acute respiratory syndrome-related coronavirus and betacoronavirus in the B lineage",
+        2232,
+        2762
+      ],
+      [
+        "Coronavirus replicase NSP3, C-terminal",
+        2262,
+        2748
+      ],
+      [
+        "coronavirus non-structural protein 4 (Nsp4) transmembrane domain",
+        2777,
+        3157
+      ],
+      [
+        "Coronavirus replicase NSP4, N-terminal",
+        2788,
+        3141
+      ],
+      [
+        "Coronavirus Nsp4 C-terminal (Nsp4C) domain profile",
+        3165,
+        3263
+      ],
+      [
+        "Coronavirus main protease (M-pro) domain profile",
+        3264,
+        3569
+      ],
+      [
+        "Coronavirus endopeptidase C30",
+        3292,
+        3582
+      ],
+      [
+        "betacoronavirus non-structural protein 6",
+        3570,
+        3859
+      ],
+      [
+        "Coronavirus replicase NSP6",
+        3599,
+        3859
+      ],
+      [
+        "Coronavirus replicase NSP7",
+        3860,
+        3942
+      ],
+      [
+        "Coronavirus RNA-dependent RNA polymerase (RdRp) Nsp8 cofactor domain profile",
+        3943,
+        4140
+      ],
+      [
+        "Coronavirus replicase NSP9",
+        4141,
+        4253
+      ],
+      [
+        "Coronavirus (CoV) ExoN/MTase coactivator domain profile",
+        4254,
+        4392
+      ],
+      [
+        "Coronavirus RNA synthesis protein NSP10",
+        4262,
+        4384
+      ],
+      [
+        "Severe acute respiratory syndrome coronavirus RNA-dependent RNA polymerase, also known as non-structural protein 12, and similar proteins from betacoronaviruses in the B lineage: responsible for replication and transcription of the viral RNA genome",
+        4397,
+        5324
+      ],
+      [
+        "Viral RNA-dependent RNA polymerase",
+        4889,
+        5173
+      ],
+      [
+        "Cys/His rich zinc-binding domain (CH/ZBD) of coronavirus SARS NSP13 helicase and related proteins",
+        5325,
+        5419
+      ],
+      [
+        "Coronavirus Nonstructural protein 13, stalk domain",
+        5421,
+        5468
+      ],
+      [
+        "Coronavirus Nonstructural protein 13, 1B domain",
+        5472,
+        5552
+      ],
+      [
+        "Coronaviruses polyprotein 1ab",
+        5520,
+        5905
+      ],
+      [
+        "(+)RNA virus helicase core domain profile",
+        5581,
+        5932
+      ],
+      [
+        "Coronavirus proofreading exoribonuclease",
+        5929,
+        6450
+      ],
+      [
+        "nonstructural protein 14 of betacoronavirus",
+        5930,
+        6450
+      ],
+      [
+        "Nsp15 N-terminal domain-like",
+        6451,
+        6515
+      ],
+      [
+        "middle domain of alpha- and beta-coronavirus Nonstructural protein 15 (Nsp15), and related proteins",
+        6517,
+        6648
+      ],
+      [
+        "Coronavirus replicase NSP15, uridylate-specific endoribonuclease",
+        6644,
+        6796
+      ],
+      [
+        "Vaccinia Virus protein VP39",
+        6799,
+        7096
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        8
+      ],
+      [
+        "inner",
+        395
+      ],
+      [
+        "inner",
+        35
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        23
+      ],
+      [
+        "inner",
+        22
+      ],
+      [
+        "inner",
+        72
+      ],
+      [
+        "inner",
+        28
+      ],
+      [
+        "inner",
+        23
+      ],
+      [
+        "inner",
+        12
+      ],
+      [
+        "inner",
+        151
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        2
+      ]
+    ]
+  },
+  "P0A8T7": {
+    "domains": [
+      [
+        "DNA-directed RNA polymerase subunit beta' [rpoC]",
+        10,
+        1374
+      ],
+      [
+        "Largest subunit (beta') of bacterial DNA-dependent RNA polymerase (RNAP), N-terminal domain",
+        15,
+        813
+      ],
+      [
+        "RNA polymerase Rpb1, domain 5",
+        766,
+        1315
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        9
+      ],
+      [
+        "c-terminus",
+        92
+      ]
+    ]
+  },
+  "Q9UNS2": {
+    "domains": [
+      [
+        "COP9 signalosome complex subunit 3",
+        10,
+        413
+      ],
+      [
+        "COP9 signalosome complex subunit 3, N-terminal helical repeats",
+        18,
+        249
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        9
+      ],
+      [
+        "c-terminus",
+        174
+      ]
+    ]
+  },
+  "Q9UKM8": {
+    "domains": [],
+    "linkers": [
+      [
+        "n-terminus",
+        535
+      ]
+    ]
+  },
+  "Q9Y2X5": {
+    "domains": [],
+    "linkers": [
+      [
+        "n-terminus",
+        860
+      ]
+    ]
+  },
+  "P01012": {
+    "domains": [
+      [
+        "serpin family B member 14, ovalbumin",
+        2,
+        386
+      ],
+      [
+        "SERINE PROTEASE INHIBITOR, SERPIN",
+        6,
+        386
+      ]
+    ],
+    "linkers": []
+  },
+  "Q9Y6K9": {
+    "domains": [
+      [
+        "L1 transposable element, trimerization domain",
+        43,
+        111
+      ],
+      [
+        "NF-kappa-B essential modulator NEMO",
+        44,
+        111
+      ],
+      [
+        "Optineurin/NF-kappa-B Essential Modulator",
+        128,
+        419
+      ],
+      [
+        "L1 transposable element, trimerization domain",
+        196,
+        253
+      ],
+      [
+        "Nemo cc2-lz domain - 1d5 darpin complex",
+        257,
+        346
+      ],
+      [
+        "Zinc finger CCHC NOA-type profile",
+        389,
+        419
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        42
+      ],
+      [
+        "inner",
+        16
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        42
+      ]
+    ]
+  },
+  "P68363": {
+    "domains": [
+      [
+        "Tubulin/FtsZ, GTPase domain",
+        1,
+        268
+      ],
+      [
+        "TUBULIN",
+        2,
+        439
+      ],
+      [
+        "Tubulin C-terminal domain-like",
+        246,
+        437
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        14
+      ]
+    ]
+  },
+  "P0A7D4": {
+    "domains": [
+      [
+        "Adenylosuccinate synthetase [purA]",
+        1,
+        432
+      ],
+      [
+        "P-loop containing nucleoside triphosphate hydrolases",
+        3,
+        431
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A7N9": {
+    "domains": [
+      [
+        "Ribosomal protein L33",
+        1,
+        55
+      ],
+      [
+        "50S ribosomal protein L33",
+        1,
+        55
+      ]
+    ],
+    "linkers": []
+  },
+  "Q8WZ42": {
+    "domains": [
+      [
+        "Immunoglobulins",
+        1,
+        99
+      ],
+      [
+        "Immunoglobulins",
+        100,
+        194
+      ],
+      [
+        "Titin Z",
+        418,
+        454
+      ],
+      [
+        "Titin Z",
+        693,
+        739
+      ],
+      [
+        "Immunoglobulins",
+        940,
+        1046
+      ],
+      [
+        "Immunoglobulins",
+        1081,
+        1192
+      ],
+      [
+        "Immunoglobulins",
+        1288,
+        1385
+      ],
+      [
+        "Immunoglobulins",
+        1451,
+        1550
+      ],
+      [
+        "Immunoglobulins",
+        1551,
+        1650
+      ],
+      [
+        "Immunoglobulins",
+        1696,
+        1800
+      ],
+      [
+        "Immunoglobulins",
+        1830,
+        1934
+      ],
+      [
+        "Immunoglobulins",
+        2073,
+        2170
+      ],
+      [
+        "Immunoglobulins",
+        2171,
+        2264
+      ],
+      [
+        "Immunoglobulins",
+        2265,
+        2353
+      ],
+      [
+        "Immunoglobulins",
+        2354,
+        2441
+      ],
+      [
+        "Immunoglobulins",
+        2442,
+        2532
+      ],
+      [
+        "Immunoglobulins",
+        2533,
+        2619
+      ],
+      [
+        "Immunoglobulins",
+        2620,
+        2705
+      ],
+      [
+        "Immunoglobulins",
+        2706,
+        2794
+      ],
+      [
+        "Immunoglobulins",
+        2795,
+        2880
+      ],
+      [
+        "Immunoglobulins",
+        2881,
+        2968
+      ],
+      [
+        "Immunoglobulins",
+        2969,
+        3056
+      ],
+      [
+        "Immunoglobulins",
+        3057,
+        3145
+      ],
+      [
+        "Immunoglobulins",
+        3146,
+        3235
+      ],
+      [
+        "Immunoglobulins",
+        3236,
+        3331
+      ],
+      [
+        "Immunoglobulins",
+        3342,
+        3435
+      ],
+      [
+        "Immunoglobulins",
+        3498,
+        3606
+      ],
+      [
+        "Immunoglobulins",
+        3618,
+        3715
+      ],
+      [
+        "Immunoglobulins",
+        4289,
+        4379
+      ],
+      [
+        "Immunoglobulins",
+        4380,
+        4475
+      ],
+      [
+        "Immunoglobulins",
+        4476,
+        4569
+      ],
+      [
+        "Immunoglobulins",
+        4570,
+        4661
+      ],
+      [
+        "Immunoglobulins",
+        4662,
+        4755
+      ],
+      [
+        "Immunoglobulins",
+        4756,
+        4845
+      ],
+      [
+        "Immunoglobulins",
+        4846,
+        4943
+      ],
+      [
+        "Immunoglobulins",
+        4944,
+        5038
+      ],
+      [
+        "Immunoglobulins",
+        5039,
+        5132
+      ],
+      [
+        "Immunoglobulin",
+        5133,
+        5230
+      ],
+      [
+        "Immunoglobulin",
+        5230,
+        5321
+      ],
+      [
+        "Immunoglobulin",
+        5320,
+        5417
+      ],
+      [
+        "Immunoglobulins",
+        5412,
+        5506
+      ],
+      [
+        "Immunoglobulins",
+        5507,
+        5599
+      ],
+      [
+        "Immunoglobulin",
+        5602,
+        5701
+      ],
+      [
+        "Immunoglobulin",
+        5695,
+        5794
+      ],
+      [
+        "Immunoglobulin",
+        5785,
+        5882
+      ],
+      [
+        "Immunoglobulin",
+        5882,
+        5979
+      ],
+      [
+        "Immunoglobulins",
+        5973,
+        6069
+      ],
+      [
+        "Immunoglobulin",
+        6164,
+        6263
+      ],
+      [
+        "Immunoglobulin",
+        6257,
+        6355
+      ],
+      [
+        "Immunoglobulin",
+        6350,
+        6446
+      ],
+      [
+        "Immunoglobulin",
+        6440,
+        6539
+      ],
+      [
+        "Immunoglobulin",
+        6537,
+        6633
+      ],
+      [
+        "Immunoglobulin",
+        6727,
+        6826
+      ],
+      [
+        "Immunoglobulins",
+        7004,
+        7099
+      ],
+      [
+        "Immunoglobulins",
+        7194,
+        7292
+      ],
+      [
+        "Immunoglobulin",
+        7385,
+        7482
+      ],
+      [
+        "Immunoglobulin",
+        7478,
+        7578
+      ],
+      [
+        "Immunoglobulins",
+        7570,
+        7667
+      ],
+      [
+        "Immunoglobulin",
+        7668,
+        7766
+      ],
+      [
+        "Immunoglobulin",
+        7855,
+        7950
+      ],
+      [
+        "Immunoglobulin",
+        7947,
+        8043
+      ],
+      [
+        "Immunoglobulins",
+        8037,
+        8132
+      ],
+      [
+        "Immunoglobulins",
+        8133,
+        8232
+      ],
+      [
+        "Immunoglobulin",
+        8232,
+        8332
+      ],
+      [
+        "Immunoglobulin V-Type",
+        8342,
+        8494
+      ],
+      [
+        "Immunoglobulins",
+        8511,
+        8606
+      ],
+      [
+        "Immunoglobulins",
+        8607,
+        8701
+      ],
+      [
+        "Immunoglobulin",
+        8702,
+        8796
+      ],
+      [
+        "Immunoglobulin",
+        8796,
+        8891
+      ],
+      [
+        "Immunoglobulin",
+        8888,
+        8983
+      ],
+      [
+        "Immunoglobulins",
+        9074,
+        9175
+      ],
+      [
+        "Immunoglobulin",
+        9176,
+        9273
+      ],
+      [
+        "Immunoglobulins",
+        9272,
+        9374
+      ],
+      [
+        "Immunoglobulins",
+        9375,
+        9474
+      ],
+      [
+        "Tri-helix bundle domain",
+        9505,
+        9535
+      ],
+      [
+        "Immunoglobulins",
+        9580,
+        9671
+      ],
+      [
+        "Immunoglobulin",
+        9672,
+        9760
+      ],
+      [
+        "Immunoglobulins",
+        9759,
+        9855
+      ],
+      [
+        "PPAK motif",
+        10503,
+        10529
+      ],
+      [
+        "PPAK motif",
+        10587,
+        10613
+      ],
+      [
+        "PPAK motif",
+        10615,
+        10641
+      ],
+      [
+        "PPAK motif",
+        10762,
+        10787
+      ],
+      [
+        "PPAK motif",
+        10901,
+        10925
+      ],
+      [
+        "PPAK motif",
+        10927,
+        10953
+      ],
+      [
+        "PPAK motif",
+        10955,
+        10981
+      ],
+      [
+        "PPAK motif",
+        10983,
+        11009
+      ],
+      [
+        "PPAK motif",
+        11698,
+        11724
+      ],
+      [
+        "Immunoglobulins",
+        12037,
+        12135
+      ],
+      [
+        "Immunoglobulins",
+        12136,
+        12229
+      ],
+      [
+        "Immunoglobulins",
+        12234,
+        12321
+      ],
+      [
+        "Immunoglobulins",
+        12322,
+        12411
+      ],
+      [
+        "Immunoglobulins",
+        12412,
+        12499
+      ],
+      [
+        "Immunoglobulins",
+        12500,
+        12589
+      ],
+      [
+        "Immunoglobulins",
+        12590,
+        12676
+      ],
+      [
+        "Immunoglobulins",
+        12677,
+        12766
+      ],
+      [
+        "Immunoglobulins",
+        12767,
+        12853
+      ],
+      [
+        "Immunoglobulins",
+        12854,
+        12943
+      ],
+      [
+        "Immunoglobulins",
+        12944,
+        13031
+      ],
+      [
+        "Immunoglobulins",
+        13032,
+        13121
+      ],
+      [
+        "Immunoglobulins",
+        13122,
+        13209
+      ],
+      [
+        "Immunoglobulins",
+        13210,
+        13298
+      ],
+      [
+        "Immunoglobulins",
+        13299,
+        13390
+      ],
+      [
+        "Ig-like domain profile",
+        13388,
+        13478
+      ],
+      [
+        "Immunoglobulins",
+        13479,
+        13565
+      ],
+      [
+        "Immunoglobulins",
+        13566,
+        13659
+      ],
+      [
+        "Immunoglobulins",
+        13660,
+        13748
+      ],
+      [
+        "Immunoglobulins",
+        13749,
+        13836
+      ],
+      [
+        "Immunoglobulins",
+        13837,
+        13925
+      ],
+      [
+        "Immunoglobulins",
+        14018,
+        14117
+      ],
+      [
+        "Immunoglobulins",
+        14118,
+        14218
+      ],
+      [
+        "Immunoglobulins",
+        14219,
+        14328
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        14417,
+        14513
+      ],
+      [
+        "Immunoglobulins",
+        14515,
+        14620
+      ],
+      [
+        "Fibronectin type III",
+        14709,
+        14905
+      ],
+      [
+        "Immunoglobulins",
+        14910,
+        15009
+      ],
+      [
+        "Immunoglobulins",
+        15011,
+        15110
+      ],
+      [
+        "Immunoglobulins",
+        15111,
+        15208
+      ],
+      [
+        "Immunoglobulins",
+        15209,
+        15311
+      ],
+      [
+        "Immunoglobulin",
+        15314,
+        15412
+      ],
+      [
+        "Fibronectin type III",
+        15406,
+        15599
+      ],
+      [
+        "Immunoglobulins",
+        15597,
+        15725
+      ],
+      [
+        "Fibronectin type III",
+        15727,
+        15925
+      ],
+      [
+        "Immunoglobulins",
+        15925,
+        16026
+      ],
+      [
+        "Fibronectin type III",
+        16122,
+        16317
+      ],
+      [
+        "Immunoglobulins",
+        16317,
+        16423
+      ],
+      [
+        "Immunoglobulins",
+        16424,
+        16521
+      ],
+      [
+        "Immunoglobulins",
+        16525,
+        16630
+      ],
+      [
+        "Immunoglobulins",
+        16631,
+        16731
+      ],
+      [
+        "Immunoglobulins",
+        16732,
+        16837
+      ],
+      [
+        "Immunoglobulins",
+        16838,
+        16933
+      ],
+      [
+        "Immunoglobulins",
+        16934,
+        17043
+      ],
+      [
+        "Immunoglobulins",
+        17044,
+        17142
+      ],
+      [
+        "Fibronectin type III",
+        17143,
+        17344
+      ],
+      [
+        "Fibronectin type III",
+        17348,
+        17446
+      ],
+      [
+        "Fibronectin type III",
+        17534,
+        17635
+      ],
+      [
+        "Immunoglobulins",
+        17639,
+        17743
+      ],
+      [
+        "Immunoglobulins",
+        17838,
+        17934
+      ],
+      [
+        "Immunoglobulins",
+        17938,
+        18039
+      ],
+      [
+        "Immunoglobulins",
+        18040,
+        18141
+      ],
+      [
+        "Immunoglobulins",
+        18142,
+        18235
+      ],
+      [
+        "Immunoglobulins",
+        18236,
+        18330
+      ],
+      [
+        "Immunoglobulins",
+        18331,
+        18429
+      ],
+      [
+        "Immunoglobulins",
+        18433,
+        18529
+      ],
+      [
+        "Fibronectin type III",
+        18529,
+        18720
+      ],
+      [
+        "Fibronectin type III",
+        18716,
+        18842
+      ],
+      [
+        "Fibronectin type III",
+        18927,
+        19123
+      ],
+      [
+        "Immunoglobulin",
+        19132,
+        19229
+      ],
+      [
+        "Fibronectin type III",
+        19222,
+        19419
+      ],
+      [
+        "Fibronectin type III",
+        19411,
+        19531
+      ],
+      [
+        "Immunoglobulins",
+        19529,
+        19626
+      ],
+      [
+        "Fibronectin type III",
+        19624,
+        19814
+      ],
+      [
+        "Immunoglobulin",
+        19826,
+        19925
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        19921,
+        20017
+      ],
+      [
+        "Immunoglobulins",
+        20018,
+        20117
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        20119,
+        20217
+      ],
+      [
+        "Immunoglobulins",
+        20218,
+        20314
+      ],
+      [
+        "Immunoglobulins",
+        20315,
+        20408
+      ],
+      [
+        "Immunoglobulins",
+        20409,
+        20510
+      ],
+      [
+        "Immunoglobulins",
+        20511,
+        20613
+      ],
+      [
+        "Immunoglobulins",
+        20616,
+        20712
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        20716,
+        20813
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        20814,
+        20908
+      ],
+      [
+        "Immunoglobulins",
+        20916,
+        21001
+      ],
+      [
+        "Fibronectin type III",
+        21002,
+        21197
+      ],
+      [
+        "Immunoglobulins",
+        21201,
+        21301
+      ],
+      [
+        "Immunoglobulins",
+        21302,
+        21398
+      ],
+      [
+        "Immunoglobulins",
+        21399,
+        21494
+      ],
+      [
+        "Immunoglobulins",
+        21499,
+        21596
+      ],
+      [
+        "MICROFIBRIL-ASSOCIATED GLYCOPROTEIN 3",
+        21516,
+        22166
+      ],
+      [
+        "Immunoglobulins",
+        21597,
+        21696
+      ],
+      [
+        "Immunoglobulins",
+        21699,
+        21795
+      ],
+      [
+        "Immunoglobulins",
+        21796,
+        21888
+      ],
+      [
+        "Immunoglobulins",
+        21889,
+        21987
+      ],
+      [
+        "Immunoglobulin",
+        22001,
+        22092
+      ],
+      [
+        "Fibronectin type III",
+        22084,
+        22279
+      ],
+      [
+        "Fibronectin type III",
+        22278,
+        22386
+      ],
+      [
+        "Immunoglobulins",
+        22385,
+        22480
+      ],
+      [
+        "Immunoglobulins",
+        22481,
+        22575
+      ],
+      [
+        "Immunoglobulins",
+        22577,
+        22679
+      ],
+      [
+        "Immunoglobulins",
+        22680,
+        22782
+      ],
+      [
+        "Fibronectin type III",
+        22877,
+        23069
+      ],
+      [
+        "Immunoglobulin",
+        23075,
+        23174
+      ],
+      [
+        "Fibronectin type III",
+        23166,
+        23364
+      ],
+      [
+        "Fibronectin type III",
+        23360,
+        23469
+      ],
+      [
+        "Fibronectin type III",
+        23562,
+        23758
+      ],
+      [
+        "Fibronectin type III",
+        23760,
+        23869
+      ],
+      [
+        "Fibronectin type III",
+        23959,
+        24150
+      ],
+      [
+        "Fibronectin type III",
+        24248,
+        24446
+      ],
+      [
+        "Fibronectin type III",
+        24431,
+        24550
+      ],
+      [
+        "Fibronectin type III",
+        24644,
+        24840
+      ],
+      [
+        "Immunoglobulins",
+        24847,
+        24959
+      ],
+      [
+        "Fibronectin type III",
+        25041,
+        25223
+      ],
+      [
+        "Immunoglobulins",
+        25236,
+        25330
+      ],
+      [
+        "Fibronectin type III",
+        25331,
+        25528
+      ],
+      [
+        "Immunoglobulins",
+        25527,
+        25630
+      ],
+      [
+        "Immunoglobulins",
+        25631,
+        25727
+      ],
+      [
+        "Immunoglobulins",
+        25728,
+        25821
+      ],
+      [
+        "Immunoglobulins",
+        25823,
+        25925
+      ],
+      [
+        "Immunoglobulins",
+        25926,
+        26029
+      ],
+      [
+        "Immunoglobulins",
+        26030,
+        26126
+      ],
+      [
+        "Immunoglobulins",
+        26127,
+        26221
+      ],
+      [
+        "Immunoglobulins",
+        26222,
+        26318
+      ],
+      [
+        "Immunoglobulins",
+        26319,
+        26413
+      ],
+      [
+        "Fibronectin type III",
+        26413,
+        26607
+      ],
+      [
+        "Immunoglobulins",
+        26612,
+        26712
+      ],
+      [
+        "Immunoglobulins",
+        26713,
+        26808
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        26812,
+        26906
+      ],
+      [
+        "Immunoglobulins",
+        26909,
+        27009
+      ],
+      [
+        "Immunoglobulins",
+        27010,
+        27108
+      ],
+      [
+        "Immunoglobulins",
+        27109,
+        27203
+      ],
+      [
+        "Immunoglobulins",
+        27204,
+        27296
+      ],
+      [
+        "Immunoglobulins",
+        27297,
+        27397
+      ],
+      [
+        "Immunoglobulins",
+        27398,
+        27495
+      ],
+      [
+        "Fibronectin type III",
+        27495,
+        27690
+      ],
+      [
+        "Fibronectin type III",
+        27685,
+        27797
+      ],
+      [
+        "Immunoglobulins",
+        27796,
+        27891
+      ],
+      [
+        "Immunoglobulins",
+        27892,
+        27992
+      ],
+      [
+        "Immunoglobulins",
+        27993,
+        28090
+      ],
+      [
+        "Immunoglobulins",
+        28091,
+        28192
+      ],
+      [
+        "Immunoglobulins",
+        28193,
+        28291
+      ],
+      [
+        "Immunoglobulins",
+        28292,
+        28386
+      ],
+      [
+        "Immunoglobulins",
+        28387,
+        28483
+      ],
+      [
+        "Immunoglobulins",
+        28495,
+        28588
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        28583,
+        28680
+      ],
+      [
+        "Immunoglobulins",
+        28680,
+        28777
+      ],
+      [
+        "Immunoglobulins",
+        28778,
+        28880
+      ],
+      [
+        "Immunoglobulins",
+        28882,
+        28977
+      ],
+      [
+        "Immunoglobulins",
+        28978,
+        29073
+      ],
+      [
+        "Immunoglobulins",
+        29074,
+        29177
+      ],
+      [
+        "Immunoglobulins",
+        29178,
+        29280
+      ],
+      [
+        "Fibronectin type-III domain profile",
+        29378,
+        29473
+      ],
+      [
+        "Immunoglobulins",
+        29468,
+        29569
+      ],
+      [
+        "Immunoglobulins",
+        29570,
+        29666
+      ],
+      [
+        "Fibronectin type III",
+        29667,
+        29863
+      ],
+      [
+        "Immunoglobulins",
+        29864,
+        29969
+      ],
+      [
+        "Immunoglobulins",
+        29970,
+        30066
+      ],
+      [
+        "Immunoglobulins",
+        30067,
+        30162
+      ],
+      [
+        "Immunoglobulins",
+        30163,
+        30265
+      ],
+      [
+        "Immunoglobulins",
+        30266,
+        30366
+      ],
+      [
+        "Immunoglobulins",
+        30368,
+        30463
+      ],
+      [
+        "Immunoglobulins",
+        30464,
+        30559
+      ],
+      [
+        "Immunoglobulins",
+        30560,
+        30659
+      ],
+      [
+        "Immunoglobulins",
+        30662,
+        30757
+      ],
+      [
+        "Immunoglobulins",
+        30758,
+        30857
+      ],
+      [
+        "Immunoglobulins",
+        30858,
+        30957
+      ],
+      [
+        "Immunoglobulins",
+        30958,
+        31058
+      ],
+      [
+        "Immunoglobulins",
+        31059,
+        31155
+      ],
+      [
+        "Fibronectin type III",
+        31140,
+        31262
+      ],
+      [
+        "Immunoglobulins",
+        31257,
+        31357
+      ],
+      [
+        "Immunoglobulins",
+        31358,
+        31454
+      ],
+      [
+        "Immunoglobulins",
+        31455,
+        31552
+      ],
+      [
+        "Immunoglobulins",
+        31554,
+        31649
+      ],
+      [
+        "Immunoglobulins",
+        31650,
+        31749
+      ],
+      [
+        "Immunoglobulins",
+        31750,
+        31850
+      ],
+      [
+        "Immunoglobulins",
+        31852,
+        31949
+      ],
+      [
+        "Immunoglobulins",
+        31950,
+        32044
+      ],
+      [
+        "Immunoglobulins",
+        32045,
+        32146
+      ],
+      [
+        "Phosphorylase Kinase; domain 1",
+        32172,
+        32255
+      ],
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        32257,
+        32492
+      ],
+      [
+        "Immunoglobulins",
+        32496,
+        32590
+      ],
+      [
+        "Immunoglobulins",
+        32611,
+        32711
+      ],
+      [
+        "Immunoglobulins",
+        32715,
+        32816
+      ],
+      [
+        "Immunoglobulins",
+        33293,
+        33395
+      ],
+      [
+        "Immunoglobulins",
+        33475,
+        33579
+      ],
+      [
+        "Immunoglobulins",
+        33646,
+        33758
+      ],
+      [
+        "Immunoglobulins",
+        33773,
+        33871
+      ],
+      [
+        "Immunoglobulins",
+        33963,
+        34057
+      ],
+      [
+        "Immunoglobulins",
+        34058,
+        34161
+      ],
+      [
+        "Immunoglobulins",
+        34252,
+        34350
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        223
+      ],
+      [
+        "inner",
+        238
+      ],
+      [
+        "inner",
+        200
+      ],
+      [
+        "inner",
+        34
+      ],
+      [
+        "inner",
+        95
+      ],
+      [
+        "inner",
+        65
+      ],
+      [
+        "inner",
+        45
+      ],
+      [
+        "inner",
+        29
+      ],
+      [
+        "inner",
+        138
+      ],
+      [
+        "inner",
+        10
+      ],
+      [
+        "inner",
+        62
+      ],
+      [
+        "inner",
+        11
+      ],
+      [
+        "inner",
+        573
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        94
+      ],
+      [
+        "inner",
+        93
+      ],
+      [
+        "inner",
+        177
+      ],
+      [
+        "inner",
+        94
+      ],
+      [
+        "inner",
+        92
+      ],
+      [
+        "inner",
+        88
+      ],
+      [
+        "inner",
+        9
+      ],
+      [
+        "inner",
+        16
+      ],
+      [
+        "inner",
+        90
+      ],
+      [
+        "inner",
+        30
+      ],
+      [
+        "inner",
+        44
+      ],
+      [
+        "inner",
+        647
+      ],
+      [
+        "inner",
+        57
+      ],
+      [
+        "inner",
+        120
+      ],
+      [
+        "inner",
+        113
+      ],
+      [
+        "inner",
+        688
+      ],
+      [
+        "inner",
+        312
+      ],
+      [
+        "inner",
+        4
+      ],
+      [
+        "inner",
+        92
+      ],
+      [
+        "inner",
+        88
+      ],
+      [
+        "inner",
+        88
+      ],
+      [
+        "inner",
+        4
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        95
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        87
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        94
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        84
+      ],
+      [
+        "inner",
+        8
+      ],
+      [
+        "inner",
+        11
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        7
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        4
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        13
+      ],
+      [
+        "inner",
+        94
+      ],
+      [
+        "inner",
+        5
+      ],
+      [
+        "inner",
+        92
+      ],
+      [
+        "inner",
+        89
+      ],
+      [
+        "inner",
+        97
+      ],
+      [
+        "inner",
+        93
+      ],
+      [
+        "inner",
+        6
+      ],
+      [
+        "inner",
+        81
+      ],
+      [
+        "inner",
+        12
+      ],
+      [
+        "inner",
+        4
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        11
+      ],
+      [
+        "inner",
+        97
+      ],
+      [
+        "inner",
+        2
+      ],
+      [
+        "inner",
+        25
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        20
+      ],
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        476
+      ],
+      [
+        "inner",
+        79
+      ],
+      [
+        "inner",
+        66
+      ],
+      [
+        "inner",
+        14
+      ],
+      [
+        "inner",
+        91
+      ],
+      [
+        "inner",
+        90
+      ]
+    ]
+  },
+  "P0A9Q7": {
+    "domains": [
+      [
+        "bifunctional acetaldehyde-CoA/alcohol dehydrogenase",
+        2,
+        868
+      ],
+      [
+        "ALDH-like",
+        6,
+        453
+      ],
+      [
+        "Dehydroquinate synthase-like",
+        449,
+        867
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        24
+      ]
+    ]
+  },
+  "P23743": {
+    "domains": [
+      [
+        "EF-hand",
+        1,
+        118
+      ],
+      [
+        "EF-hand",
+        116,
+        189
+      ],
+      [
+        "DIACYLGLYCEROL KINASE",
+        161,
+        721
+      ],
+      [
+        "Cysteine-rich domain",
+        186,
+        252
+      ],
+      [
+        "Cysteine-rich domain",
+        256,
+        324
+      ],
+      [
+        "DAG-kinase catalytic (DAGKc) domain profile",
+        372,
+        506
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        3
+      ],
+      [
+        "inner",
+        47
+      ],
+      [
+        "c-terminus",
+        229
+      ]
+    ]
+  },
+  "Q9C0G6": {
+    "domains": [
+      [
+        "DYNEIN HEAVY CHAIN 6, AXONEMAL-LIKE-RELATED",
+        166,
+        4157
+      ],
+      [
+        "Dynein heavy chain, N-terminal domain 2",
+        1035,
+        1186
+      ],
+      [
+        "Dynein heavy chain, N-terminal domain 2",
+        1188,
+        1302
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        1449,
+        1598
+      ],
+      [
+        "P-loop containing nucleoside triphosphate hydrolases",
+        1680,
+        1932
+      ],
+      [
+        "Dynein heavy chain AAA lid domain",
+        1929,
+        2051
+      ],
+      [
+        "P-loop containing dynein motor region",
+        2057,
+        2238
+      ],
+      [
+        "P-loop containing dynein motor region D4",
+        2418,
+        2676
+      ],
+      [
+        "Microtubule-binding stalk of dynein motor",
+        2690,
+        3020
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        3039,
+        3211
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        3530,
+        3655
+      ],
+      [
+        "Region D6 of dynein motor",
+        3656,
+        3818
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        165
+      ],
+      [
+        "inner",
+        146
+      ],
+      [
+        "inner",
+        81
+      ],
+      [
+        "inner",
+        5
+      ],
+      [
+        "inner",
+        179
+      ],
+      [
+        "inner",
+        13
+      ],
+      [
+        "inner",
+        18
+      ],
+      [
+        "inner",
+        318
+      ],
+      [
+        "c-terminus",
+        340
+      ]
+    ]
+  },
+  "Q02750": {
+    "domains": [
+      [
+        "MAP kinase kinase",
+        9,
+        391
+      ],
+      [
+        "Phosphorylase Kinase; domain 1",
+        34,
+        147
+      ],
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        148,
+        393
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        8
+      ]
+    ]
+  },
+  "P07333": {
+    "domains": [
+      [
+        "Macrophage colony-stimulating factor 1 receptor",
+        2,
+        972
+      ],
+      [
+        "Immunoglobulins",
+        20,
+        102
+      ],
+      [
+        "Immunoglobulins",
+        103,
+        201
+      ],
+      [
+        "Immunoglobulins",
+        202,
+        300
+      ],
+      [
+        "Fourth immunoglobulin (Ig)-like domain of stem cell factor receptor (SCFR), and similar domains; member of the I-set of IgSF domains",
+        299,
+        400
+      ],
+      [
+        "Platelet-derived growth factor receptor Ig-like domain 4",
+        414,
+        533
+      ],
+      [
+        "Catalytic domain of the Protein Tyrosine Kinase, Colony-Stimulating Factor-1 Receptor",
+        543,
+        914
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        13
+      ],
+      [
+        "inner",
+        9
+      ],
+      [
+        "c-terminus",
+        58
+      ]
+    ]
+  },
+  "P05067": {
+    "domains": [
+      [
+        "ALZHEIMER'S DISEASE BETA-AMYLOID RELATED",
+        10,
+        770
+      ],
+      [
+        "Amyloidogenic glycoprotein, heparin-binding domain",
+        17,
+        123
+      ],
+      [
+        "Amyloid beta a4 protein copper binding domain (domain 2)",
+        124,
+        188
+      ],
+      [
+        "Pancreatic trypsin inhibitor Kunitz domain",
+        279,
+        352
+      ],
+      [
+        "Amyloid precursor protein, E2 domain",
+        363,
+        580
+      ],
+      [
+        "Amyloidogenic glycoprotein, amyloid-beta peptide",
+        672,
+        711
+      ],
+      [
+        "Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)",
+        742,
+        770
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        9
+      ],
+      [
+        "inner",
+        90
+      ],
+      [
+        "inner",
+        10
+      ],
+      [
+        "inner",
+        91
+      ],
+      [
+        "inner",
+        30
+      ]
+    ]
+  },
+  "P42336": {
+    "domains": [
+      [
+        "PHOSPHATIDYLINOSITOL KINASE",
+        54,
+        1064
+      ],
+      [
+        "Phosphatidylinositol 3-kinase Catalytic Subunit; Chain A, domain 1",
+        109,
+        326
+      ],
+      [
+        "C2 domain present in class I alpha phosphatidylinositol 3-kinases (PI3Ks)",
+        325,
+        484
+      ],
+      [
+        "Phosphatidylinositol 3-kinase, accessory domain (PIK)",
+        479,
+        695
+      ],
+      [
+        "Catalytic domain of Class IA Phosphoinositide 3-kinase alpha",
+        695,
+        1064
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        53
+      ],
+      [
+        "c-terminus",
+        4
+      ]
+    ]
+  },
+  "P0A799": {
+    "domains": [
+      [
+        "Phosphoglycerate kinase",
+        3,
+        383
+      ],
+      [
+        "Phosphoglycerate kinase",
+        3,
+        386
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        2
+      ]
+    ]
+  },
+  "P0A7Y4": {
+    "domains": [
+      [
+        "Ribonuclease H-like superfamily/Ribonuclease H",
+        1,
+        155
+      ],
+      [
+        "Ribonuclease H [rnhA]",
+        2,
+        149
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        6
+      ]
+    ]
+  },
+  "P31749": {
+    "domains": [
+      [
+        "Pleckstrin-homology domain (PH domain)/Phosphotyrosine-binding domain (PTB)",
+        1,
+        123
+      ],
+      [
+        "Serine/threonine-protein kinase",
+        114,
+        476
+      ],
+      [
+        "Catalytic domain of the Serine/Threonine Kinase, Protein Kinase B alpha (also called Akt1)",
+        124,
+        479
+      ]
+    ],
+    "linkers": []
+  },
+  "P04637": {
+    "domains": [
+      [
+        "CELLULAR TUMOR ANTIGEN P53",
+        3,
+        369
+      ],
+      [
+        "P53 transactivation motif",
+        6,
+        30
+      ],
+      [
+        "Transactivation domain 2",
+        35,
+        59
+      ],
+      [
+        "p53-like tetramerisation domain",
+        319,
+        360
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        2
+      ],
+      [
+        "inner",
+        4
+      ],
+      [
+        "inner",
+        259
+      ],
+      [
+        "c-terminus",
+        33
+      ]
+    ]
+  },
+  "P49747": {
+    "domains": [
+      [
+        "Assembly domain of cartilage oligomeric matrix protein",
+        28,
+        73
+      ],
+      [
+        "THROMBOSPONDIN",
+        29,
+        751
+      ],
+      [
+        "Laminin",
+        89,
+        133
+      ],
+      [
+        "Calcium-binding EGF-like domain",
+        127,
+        179
+      ],
+      [
+        "Calcium-binding EGF domain",
+        180,
+        221
+      ],
+      [
+        "Laminin",
+        220,
+        269
+      ],
+      [
+        "TSP type-3 repeat",
+        267,
+        349
+      ],
+      [
+        "TSP type-3 repeat",
+        337,
+        408
+      ],
+      [
+        "TSP type-3 repeat",
+        409,
+        531
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        27
+      ],
+      [
+        "c-terminus",
+        226
+      ]
+    ]
+  },
+  "O14744": {
+    "domains": [
+      [
+        "Divalent-metal-dependent TIM barrel enzymes",
+        1,
+        299
+      ],
+      [
+        "Arginine N-methyltransferase, PRMT5 type",
+        7,
+        637
+      ],
+      [
+        "Vaccinia Virus protein VP39",
+        300,
+        466
+      ],
+      [
+        "Hnrnp arginine n-methyltransferase1",
+        467,
+        637
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A6Y8": {
+    "domains": [
+      [
+        "molecular chaperone DnaK",
+        1,
+        638
+      ],
+      [
+        "nucleotide-binding domain (NBD) of Escherichia coli chaperone protein DnaK and similar proteins",
+        4,
+        383
+      ],
+      [
+        "Substrate Binding Domain Of DNAk; Chain A, domain 1",
+        381,
+        506
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        132
+      ]
+    ]
+  },
+  "P0A7J3": {
+    "domains": [
+      [
+        "Large ribosomal subunit protein uL10 [rplJ]",
+        3,
+        162
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        2
+      ],
+      [
+        "c-terminus",
+        3
+      ]
+    ]
+  },
+  "P25963": {
+    "domains": [
+      [
+        "NF-kappa-B Inhibitor",
+        5,
+        313
+      ],
+      [
+        "Ankyrin repeat-containing domain",
+        67,
+        302
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        4
+      ],
+      [
+        "c-terminus",
+        15
+      ]
+    ]
+  },
+  "P59594": {
+    "domains": [
+      [
+        "Spike glycoprotein [S]",
+        3,
+        1255
+      ],
+      [
+        "Betacoronavirus spike (S) glycoprotein S1 subunit N-terminal (NTD) domain profile",
+        12,
+        290
+      ],
+      [
+        "receptor-binding domain of the S1 subunit of severe acute respiratory syndrome-related coronavirus Spike (S) protein",
+        306,
+        527
+      ],
+      [
+        "SD-1 and SD-2 subdomains, the S1/S2 cleavage region, and the S2 fusion subunit of the spike (S) glycoprotein from SARS-CoV-2 (COVID-19) and related betacoronaviruses in the B lineage",
+        529,
+        1190
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        2
+      ],
+      [
+        "inner",
+        15
+      ],
+      [
+        "c-terminus",
+        65
+      ]
+    ]
+  },
+  "P0A7M2": {
+    "domains": [
+      [
+        "39S RIBOSOMAL PROTEIN L28, MITOCHONDRIAL",
+        1,
+        70
+      ],
+      [
+        "Ribosomal protein L28/L24",
+        2,
+        78
+      ]
+    ],
+    "linkers": []
+  },
+  "P07900": {
+    "domains": [
+      [
+        "Histidine kinase-like ATPase, C-terminal domain",
+        4,
+        240
+      ],
+      [
+        "Heat shock protein, HSP90/HTPG types",
+        12,
+        730
+      ],
+      [
+        "Heat shock protein 90, C-terminal domain",
+        547,
+        697
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "c-terminus",
+        35
+      ]
+    ]
+  },
+  "Q9H3U1": {
+    "domains": [
+      [
+        "UNC-45 Myosin Chaperone and Muscle Development",
+        18,
+        935
+      ],
+      [
+        "Tetratricopeptide repeat domain",
+        20,
+        137
+      ],
+      [
+        "Leucine-rich Repeat Variant",
+        146,
+        499
+      ],
+      [
+        "Leucine-rich Repeat Variant",
+        500,
+        928
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        17
+      ],
+      [
+        "inner",
+        8
+      ],
+      [
+        "c-terminus",
+        16
+      ]
+    ]
+  },
+  "Q13188": {
+    "domains": [
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        4,
+        282
+      ],
+      [
+        "STE20/SPS1-related Proline-Alanine-rich Kinase",
+        18,
+        412
+      ],
+      [
+        "p53-like tetramerisation domain",
+        435,
+        491
+      ],
+      [
+        "C terminal SARAH domain of Mst1",
+        437,
+        484
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "inner",
+        22
+      ],
+      [
+        "c-terminus",
+        7
+      ]
+    ]
+  },
+  "P0A7K2": {
+    "domains": [
+      [
+        "50S ribosomal protein L7/L12",
+        1,
+        121
+      ],
+      [
+        "Single helix bin",
+        2,
+        50
+      ],
+      [
+        "ClpS-like",
+        50,
+        121
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A6F3": {
+    "domains": [
+      [
+        "glycerol kinase GlpK",
+        2,
+        501
+      ]
+    ],
+    "linkers": []
+  },
+  "Q9H4W0": {
+    "domains": [],
+    "linkers": [
+      [
+        "n-terminus",
+        3487
+      ]
+    ]
+  },
+  "P0A7V0": {
+    "domains": [
+      [
+        "30S RIBOSOMAL PROTEIN S2 PROKARYOTIC AND ORGANELLAR",
+        3,
+        236
+      ],
+      [
+        "Glucose-6-phosphate isomerase like protein; domain 1",
+        7,
+        104
+      ],
+      [
+        "Helix hairpin bin",
+        105,
+        150
+      ],
+      [
+        "Glucose-6-phosphate isomerase like protein; domain 1",
+        151,
+        241
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        2
+      ]
+    ]
+  },
+  "P0A7E5": {
+    "domains": [
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        1,
+        285
+      ],
+      [
+        "CTP synthase",
+        2,
+        542
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        3
+      ]
+    ]
+  },
+  "P01308": {
+    "domains": [
+      [
+        "INSULIN/INSULIN GROWTH FACTOR",
+        1,
+        110
+      ],
+      [
+        "Insulin-like",
+        10,
+        109
+      ]
+    ],
+    "linkers": []
+  },
+  "P09237": {
+    "domains": [
+      [
+        "Collagenase (Catalytic Domain)",
+        22,
+        267
+      ],
+      [
+        "Matrix metalloproteinases M10A",
+        29,
+        259
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        21
+      ],
+      [
+        "c-terminus",
+        8
+      ]
+    ]
+  },
+  "P04792": {
+    "domains": [
+      [
+        "HEAT SHOCK PROTEIN HSP-12.2-RELATED",
+        17,
+        189
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        16
+      ],
+      [
+        "c-terminus",
+        16
+      ]
+    ]
+  },
+  "Q96QK1": {
+    "domains": [
+      [
+        "VACUOLAR SORTING PROTEIN 35",
+        1,
+        792
+      ],
+      [
+        "Vacuolar protein sorting-associated protein 35",
+        15,
+        752
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        44
+      ]
+    ]
+  },
+  "Q9Y6K1": {
+    "domains": [
+      [
+        "DNA (cytosine-5-)-methyltransferase, N-terminal",
+        4,
+        284
+      ],
+      [
+        "DNA Methyltransferase 3",
+        147,
+        740
+      ],
+      [
+        "Tudor/PWWP/MBT",
+        283,
+        424
+      ],
+      [
+        "ADD domain profile",
+        482,
+        614
+      ],
+      [
+        "Vaccinia Virus protein VP39",
+        622,
+        851
+      ],
+      [
+        "Vaccinia Virus protein VP39",
+        852,
+        912
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "inner",
+        57
+      ],
+      [
+        "inner",
+        7
+      ]
+    ]
+  },
+  "P62805": {
+    "domains": [
+      [
+        "HISTONE H4",
+        1,
+        102
+      ],
+      [
+        "Histone, subunit A",
+        2,
+        103
+      ]
+    ],
+    "linkers": []
+  },
+  "P68431": {
+    "domains": [
+      [
+        "HISTONE H3",
+        1,
+        136
+      ],
+      [
+        "Histone, subunit A",
+        2,
+        136
+      ]
+    ],
+    "linkers": []
+  },
+  "P69905": {
+    "domains": [
+      [
+        "Hemoglobin and related oxygen transporters",
+        1,
+        142
+      ],
+      [
+        "Globin-like",
+        1,
+        142
+      ]
+    ],
+    "linkers": []
+  },
+  "Q9Y6G9": {
+    "domains": [
+      [
+        "DYNEIN LIGHT INTERMEDIATE CHAIN",
+        1,
+        471
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        52,
+        176
+      ],
+      [
+        "P-loop containing nucleotide triphosphate hydrolases",
+        235,
+        307
+      ]
+    ],
+    "linkers": [
+      [
+        "inner",
+        58
+      ],
+      [
+        "c-terminus",
+        216
+      ]
+    ]
+  },
+  "P00742": {
+    "domains": [
+      [
+        "Coagulation factor X",
+        4,
+        470
+      ],
+      [
+        "Domain containing Gla (gamma-carboxyglutamate) residues.",
+        22,
+        85
+      ],
+      [
+        "Laminin",
+        86,
+        125
+      ],
+      [
+        "Laminin",
+        126,
+        179
+      ],
+      [
+        "Serine proteases, trypsin domain profile",
+        235,
+        467
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        3
+      ],
+      [
+        "inner",
+        55
+      ],
+      [
+        "c-terminus",
+        21
+      ]
+    ]
+  },
+  "P28482": {
+    "domains": [
+      [
+        "Catalytic domain of Extracellular signal-Regulated Kinase 1 and 2-like Serine/Threonine Kinases",
+        19,
+        353
+      ],
+      [
+        "MITOGEN-ACTIVATED PROTEIN KINASE",
+        24,
+        315
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        18
+      ],
+      [
+        "c-terminus",
+        45
+      ]
+    ]
+  },
+  "Q9Y2H0": {
+    "domains": [
+      [
+        "DISKS LARGE-ASSOCIATED PROTEIN DAP SAP90/PSD-95-ASSOCIATED PROTEIN",
+        1,
+        992
+      ]
+    ],
+    "linkers": []
+  },
+  "P0A7E2": {
+    "domains": [
+      [
+        "Aldolase class I",
+        1,
+        336
+      ],
+      [
+        "quinone-dependent dihydroorotate dehydrogenase",
+        1,
+        336
+      ]
+    ],
+    "linkers": []
+  },
+  "P00533": {
+    "domains": [
+      [
+        "Tyrosine-protein kinase, EGF receptor type",
+        6,
+        1204
+      ],
+      [
+        "Receptor L-domain",
+        25,
+        213
+      ],
+      [
+        "Furin-like cysteine rich region",
+        185,
+        338
+      ],
+      [
+        "Receptor L-domain",
+        333,
+        530
+      ],
+      [
+        "Growth factor receptor domain IV",
+        505,
+        637
+      ],
+      [
+        "Phosphorylase Kinase; domain 1",
+        668,
+        792
+      ],
+      [
+        "Transferase(Phosphotransferase) domain 1",
+        793,
+        985
+      ]
+    ],
+    "linkers": [
+      [
+        "n-terminus",
+        5
+      ],
+      [
+        "inner",
+        30
+      ],
+      [
+        "c-terminus",
+        225
+      ]
+    ]
+  },
+  "P62328": {
+    "domains": [
+      [
+        "THYMOSIN BETA",
+        1,
+        44
+      ],
+      [
+        "Single helix bin",
+        2,
+        41
+      ]
+    ],
+    "linkers": [
+      [
+        "c-terminus",
+        3
+      ]
+    ]
+  }
+}
