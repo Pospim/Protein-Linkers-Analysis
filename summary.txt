@@ -1,3 +1,14 @@
+- četnost a linker analýza I pro domény
+- order/disorder analysis linkerů
+- elm -> opakující se motivy pro dannou skupinu linkerů
+- phosporilation + glycosilation
+- zastoupení délky - histogram -> kompozice AA pro short, mid, long
+-
+
+
+- homologní proteiny -> odlišnost exonů? 
+-----------------------------------------------------------------------------
+
 Interpro displays two complementary domain annotations:
 'Representative domains' are consensus sequence-based annotations derived from databases such as Pfam, SMART etc.
 'TED domains' are automatically predicted structure-based segments from AlphaFold models.
@@ -21,6 +32,9 @@ These are structure-based domains automatically predicted from AlphaFold models 
 For searching domains and their coordinates, I have created a python script that queries InterPro for a given accession and returns
 - representative domains if representative_only==True
 - all domains if representative_only==False
+
+
+
 
 
 
