@@ -1,0 +1,97 @@
+Accession	Protein	Organism	Length
+P69905	Hemoglobin subunit alpha	Homo sapiens	142
+P68871	Hemoglobin subunit beta	Homo sapiens	147
+P01308	Insulin	Homo sapiens	110
+P00533	Epidermal growth factor receptor (EGFR)	Homo sapiens	1210
+P04637	Cellular tumor antigen p53	Homo sapiens	393
+P28482	MAP kinase 1 (ERK2)	Homo sapiens	360
+P01112	GTPase HRas	Homo sapiens	189
+P00734	Prothrombin	Homo sapiens	622
+Q9Y243	Importin subunit alpha-3	Homo sapiens	521
+P68872	Hemoglobin gamma-1	Homo sapiens	147
+Q9H3U1	Zinc finger protein 143	Homo sapiens	642
+Q96PU5	Protein FAM83A	Homo sapiens	434
+P0A8V2	DNA polymerase III subunit alpha	E. coli	1160
+P0A7V0	Ribosomal protein S1	E. coli	557
+P0A7Z4	Elongation factor Tu	E. coli	393
+P0A8T7	RNA polymerase beta' subunit	E. coli	1407
+P0A6F3	Chaperone DnaK	E. coli	638
+P0A6Y8	GroEL chaperonin	E. coli	548
+Q9Z1Q5	Catalase	Mus musculus	527
+P00742	Coagulation factor X	Homo sapiens	488
+Q9Y6K9	DNA helicase RecQ1	Homo sapiens	649
+Q9Y2H0	Exportin-5	Homo sapiens	1204
+Q9Y6R1	Microtubule-associated protein 1A	Homo sapiens	2776
+P02768	Serum albumin	Homo sapiens	609
+P01009	Alpha-1-antitrypsin	Homo sapiens	418
+P01012	Orosomucoid-1	Homo sapiens	201
+P67809	Histone H4	Homo sapiens	103
+P68431	Histone H3.1	Homo sapiens	136
+Q8WZ42	Dynein heavy chain 1	Homo sapiens	4646
+Q9Y6K1	ATP synthase subunit alpha	E. coli	513
+P0DTD1	SARS-CoV-2 polyprotein 1ab	SARS-CoV-2	7096
+P59594	Spike glycoprotein	SARS-CoV	1255
+Q9C0G6	Chlorophyll a-b binding protein	Arabidopsis thaliana	273
+Q9SZZ8	RuBisCO large subunit	Arabidopsis thaliana	480
+P27487	Beta-2 adrenergic receptor	Homo sapiens	413
+P47871	Opsin-1 (rhodopsin)	Homo sapiens	348
+P0A8J8	Flagellin	Salmonella typhimurium	494
+P0A9Q7	Beta-galactosidase	E. coli	1023
+P00156	Cytochrome c	Saccharomyces cerevisiae	108
+Q02750	Pyruvate kinase	Homo sapiens	531
+Q8WZ42	Dynein heavy chain 1	Homo sapiens	4646
+Q9UNS2	Tubulin alpha chain	Homo sapiens	451
+P07437	Tubulin beta chain	Homo sapiens	445
+P68133	Actin, alpha skeletal muscle	Homo sapiens	377
+Q13501	Spectrin beta chain	Homo sapiens	2390
+Q96QK1	Titin	Homo sapiens	34350
+Q9Y6G9	Kinesin heavy chain isoform 5C	Homo sapiens	957
+P62805	Histone H4	Homo sapiens	103
+P05067	Amyloid-beta precursor protein	Homo sapiens	770
+P00797	Renin	Homo sapiens	406
+P31749	Serine/threonine-protein kinase Akt1	Homo sapiens	480
+P15056	Tyrosine-protein kinase JAK1	Homo sapiens	1154
+P49841	6-phosphofructokinase, muscle type	Homo sapiens	780
+Q9Y2X5	DNA methyltransferase 3A	Homo sapiens	912
+P07333	Catalase	Homo sapiens	527
+P07900	Cytochrome P450 3A4	Homo sapiens	503
+P68363	40S ribosomal protein S3	Homo sapiens	243
+O75323	Heterogeneous nuclear ribonucleoprotein U (hnRNP U)	Homo sapiens	825
+Q9NR33	Chromosome 11 open reading frame 87 (C11orf87)	Homo sapiens	357
+P42336	MEK1 (MAP kinase kinase 1)	Homo sapiens	393
+Q96EP0	TPD52L1 (tumor protein D52-like 1)	Homo sapiens	224
+P04792	14-3-3 protein beta/alpha	Homo sapiens	246
+P49747	TBC1 domain family member 1	Homo sapiens	866
+Q9Y2W1	RAB11 family interacting protein 4	Homo sapiens	685
+P23743	Glycogen synthase kinase-3 beta	Homo sapiens	420
+Q86YZ3	E3 ubiquitin-protein ligase TRIM39	Homo sapiens	606
+Q9UKM8	E3 ubiquitin-protein ligase SMURF2	Homo sapiens	748
+P25963	Phosphofructokinase, liver type	Homo sapiens	780
+P62328	14-3-3 protein sigma	Homo sapiens	248
+P38936	Cyclin-dependent kinase 2 (CDK2)	Homo sapiens	298
+Q9H4W0	Kinesin family member 5B	Homo sapiens	963
+O14744	Cyclin-dependent kinase 4 (CDK4)	Homo sapiens	303
+P09237	Serine/threonine-protein kinase B-raf	Homo sapiens	766
+P68366	40S ribosomal protein S14	Homo sapiens	101
+Q9Y2Q5	ATP-binding cassette sub-family A member 1 (ABCA1)	Homo sapiens	2261
+Q13188	SMAD family member 4	Homo sapiens	552
+P61981	60S ribosomal protein L7a	Homo sapiens	248
+P08670	Cytochrome c oxidase subunit 1	Bos taurus	514
+P0A7Y4	DNA polymerase I	Escherichia coli	928
+P0A7R1	RecA protein	Escherichia coli	353
+P0A7V3	Thioredoxin	Escherichia coli	109
+P0A799	Heat shock protein 33	E. coli	285
+P0A7E5	Enolase	E. coli	429
+P0A7L0	Phosphoglycerate kinase	E. coli	387
+P0A7W1	DNA gyrase subunit A	E. coli	875
+P0A7D4	Dihydrolipoamide dehydrogenase	E. coli	466
+P0A7N9	Malate dehydrogenase	E. coli	334
+P0A7A7	Glutamine synthetase	E. coli	472
+P0A7M2	Acetyl-CoA carboxylase biotin carboxylase subunit	E. coli	474
+P0A7G2	Aspartate carbamoyltransferase catalytic chain	E. coli	310
+P0A7J3	Fructose-bisphosphate aldolase class I	E. coli	286
+P0A7J7	Phosphoenolpyruvate carboxylase	E. coli	882
+P0A7K2	Isocitrate dehydrogenase (NADP)	E. coli	417
+P0A7I0	6-phosphogluconate dehydrogenase	E. coli	470
+P0A7H0	Glyceraldehyde-3-phosphate dehydrogenase	E. coli	335
+P0A7E2	Dihydroxyacetone kinase domain subunit	E. coli	221
