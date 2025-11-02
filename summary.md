@@ -4,21 +4,23 @@ TO DO
 
 2\. elm -> common motives for certain group (s, m, l | c-,n-,inner)
 
-3\. order/disorder analysis 
+3\. order/disorder analysis
+
+4\. secondary structure prediction
 
 4\. phosphorylation + glycosylation
 
 
 
-
-
-\- remove outliers based on what?
+\- remove outliers + polyHis in C-,N- terminals
 
 \- Some non-domain regions have high disorder predicted -> are these linkers too?
 
 \- How to define linkers really?
 
-\- homologní proteiny -> odlišnost exonů? 
+\- homologní proteiny -> odlišnost exonů?
+
+\- disorder X secundary structure relationship
 
 -----------------------------------------------------------------------------
 
@@ -46,7 +48,7 @@ Each underlying member database uses its own annotation method, such as:
 
 
 
-&nbsp;	ATH-Gene3D – structure-based HMMs derived from 3D domain definitions	
+&nbsp;	ATH-Gene3D – structure-based HMMs derived from 3D domain definitions
 
 
 
@@ -54,7 +56,7 @@ Each underlying member database uses its own annotation method, such as:
 
 
 
-&nbsp;	roSite – regular expression–style sequence motifs or profiles
+&nbsp;	ProSite – regular expression–style sequence motifs or profiles
 
 
 
@@ -78,27 +80,8 @@ For searching domains and their coordinates, I have created a python script that
 
 
 
-I have analysed 100 proteins from e. coli, homo sapiens and box taurus. Firstly, I have gathered representative domains and their coordinates. Then I removed all proteins with no domains found leaving 95 remaining. 
+We have analysed 100 proteins from e. coli, homo sapiens and box taurus. Firstly, We have gathered representative domains and their coordinates. Then we removed all proteins with no domains found leaving 95 remaining.
 
-I took all regions that are not part of any domain and divided them into C-terminal, N-terminal and inner linkers. I then ran my analysis on domains + each linker group to look for length distribution and AA composition. The regions I considered as linkers showed higher S, G, P and E frequency which are all residues that either promote flexibility, break secondary structure, or are common in disordered regions. C-terminus linkers showed the highest G, S % composition and inner linkers the highest E %. 
+We took all regions that are not part of any domain and divided them into C-terminal, N-terminal and inner linkers. Then we ran python analysis on domains + each linker group to look for length distribution and AA composition. The regions we considered as linkers showed higher S, G, P and E frequency which are all residues that either promote flexibility, break secondary structure, or are common in disordered regions. C-terminus linkers showed the highest G, S % composition and inner linkers the highest E %. That is in accordance with the previously established theory.
 
-I also found out that these "linker" regions have lower D, N, I and L frequency. 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+We also found out that these "linker" regions have lower D, N, I and L frequency.

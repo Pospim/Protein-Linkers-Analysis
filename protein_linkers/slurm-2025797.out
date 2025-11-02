@@ -1,0 +1,190 @@
+[INFO] Workdir: /home2/pospisil/projects/protein_linkers
+[INFO] Script:  elm_analysis.py
+[INFO] Python:  /home2/pospisil/miniconda/envs/biotools/bin/python
+[INFO] Passing to python: --workdir /home2/pospisil/projects/protein_linkers --max-workers 1 --checkpoint-freq 5 --resume
+[2025-10-30 07:40:45] 
+============================================================
+[2025-10-30 07:40:45] ELM ANALYSIS SCRIPT - STARTING
+[2025-10-30 07:40:45] Working directory: /home2/pospisil/projects/protein_linkers
+[2025-10-30 07:40:45] Resume mode: True
+[2025-10-30 07:40:45] Max workers: 1
+[2025-10-30 07:40:45] Checkpoint frequency: every 5 regions
+[2025-10-30 07:40:45] Rate limit: 60 seconds between requests
+[2025-10-30 07:40:45] Filter confidence: False
+[2025-10-30 07:40:45] ============================================================
+
+[2025-10-30 07:40:45] Loading proteins from /home2/pospisil/projects/protein_linkers/formatted_proteins.json
+[2025-10-30 07:40:45] ✓ Loaded 95 proteins
+[2025-10-30 07:40:45] Loading sequences from /home2/pospisil/projects/protein_linkers/proteins.fa
+[2025-10-30 07:40:45] ✓ Loaded 95 sequences
+[2025-10-30 07:40:45] Checkpoint loaded: 737 regions already completed
+[2025-10-30 07:40:45] Checkpoint timestamp: 2025-10-30T01:54:16.631449
+[2025-10-30 07:40:45] 
+============================================================
+[2025-10-30 07:40:45] ELM ANALYSIS: 78 regions to analyze (out of 815 total)
+[2025-10-30 07:40:45] Resuming: 737 regions already completed
+[2025-10-30 07:40:45] ============================================================
+
+[2025-10-30 07:41:17] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 07:41:17] [738/815] ✗ P00533_domain_1_Tyrosine-protein kinase, EGF receptor type: failed
+[2025-10-30 07:42:01] [739/815] ✗ P00533_linker_1_n-terminus: failed
+[2025-10-30 07:42:45] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 07:43:53] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/ME
+[2025-10-30 07:43:53] [740/815] ✗ P04637_linker_1_n-terminus: failed
+[2025-10-30 07:44:12] [741/815] ✗ P01112_linker_1_c-terminus: failed
+[2025-10-30 07:44:53] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 07:46:08] [742/815] ✗ P00734_linker_1_c-terminus: failed
+[2025-10-30 07:46:08] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 07:46:08] Checkpoint saved: 737 regions completed
+[2025-10-30 07:47:38] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 07:47:38] [743/815] ✗ Q9H3U1_domain_1_UNC-45 Myosin Chaperone and Muscle Development: failed
+[2025-10-30 07:48:08] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 07:48:08] [744/815] ✗ P0A8V2_domain_1_DNA-directed RNA polymerase subunit beta: failed
+[2025-10-30 07:48:55] [745/815] ✗ P0A8V2_linker_2_c-terminus: failed
+[2025-10-30 07:49:54] [746/815] ✗ P0A7V0_linker_1_n-terminus: failed
+[2025-10-30 07:51:08] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 07:51:08] [747/815] ✗ P0A8T7_domain_1_DNA-directed RNA polymerase subunit beta' [rpoC]: failed
+[2025-10-30 07:51:09] Checkpoint saved: 737 regions completed
+[2025-10-30 07:51:54] [748/815] ✗ P0A6F3_linker_1_n-terminus: failed
+[2025-10-30 07:52:54] [749/815] ✗ P0A6F3_linker_2_c-terminus: failed
+[2025-10-30 07:53:53] [750/815] ✗ Q9Z1Q5_linker_1_c-terminus: failed
+[2025-10-30 07:54:38] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 07:55:53] [751/815] ✗ P00742_linker_1_n-terminus: failed
+[2025-10-30 07:56:23] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 07:56:23] [752/815] ✗ Q9Y2H0_domain_1_DISKS LARGE-ASSOCIATED PROTEIN DAP SAP90/PSD-95-ASSOCIATED PROTEIN: failed
+[2025-10-30 07:56:23] Checkpoint saved: 737 regions completed
+[2025-10-30 07:57:00] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/FTELDELLAVDGQEMEWKETARWIKFEEKVEQGGERWSKPHVATLSLHSLFELRTCMEKGSIMLDREASSLPQLVEMIVDHQIETGLLKPELKDKVTYTLLRKHRHQTKKSNLRSLADIGKTVSSASRMFTNPDNGSPAMTHRNLTSSSLNDISDKPEKDQLKNKFMKKLPRDAEASNVLVGEVDFLDTPFIAFVRLQQAVMLGALTEVPVPTRFLFILLGPKGKAKSYHEIGRAIATLMSDEVFHDIAYKAKDRHDLIAGIDEFLDEVIVLPPGEWDPAIRIEPPKSLPSSDKRKNMYSGGENVQMNGDTPHDGGHGGGGHGDCEELQRTGRFCGGLIKDIKRKAPFFASDFYDALNIQALSAILFIYLATVTNAITFGGLLGDATDNMQGVLESFLGTAVSGAIFCLFAGQPLTILSSTGPVLVFERLLFNFSKDNNFDYLEFRLWIGLWSAFLCLILVATDASFLVQYFTRFTEEGFSSLISFIFIYDAFKKMIKLADYYPINSNFKVGYNTLFSCTCVPPDPANISISNDTTLAPEYLPTMSSTDMYHNTTFDWAFLSKKECSKYGGNLVGNNCNFVPDITLMSFILFLGTYTSSMALKKFKTSPYFPTTARKLISDFAIILSILIFCVIDALVGVDTPKLIVPSEFKPTSPNRGWFVPPFGENPWWVCLAAAIPALLVTILIFMDQQITAVIVNRKEHKLKKGAGYHLDLFWVAILMVICSLMALPWYVAATVISIAHIDSLKMETETSAPGEQPKFLGVREQRVTGTLVFILTGLSVFMAPILKFIPMPVLYGVFLYMGVASLNGVQFMDRLKLLLMPLKHQPDFIYLRHVPLRRVHLFTFLQVLCLALLWILKSTVAAIIFPVMILALVAVRKGMDYLFSQHDLSFLDDVIPEKDKKKKEDEKKKKKKKGSLDSDNDDSDC
+[2025-10-30 07:57:00] [753/815] ✗ Q9Y6R1_domain_2_anion exchange protein: failed
+[2025-10-30 07:58:08] [754/815] ✗ P02768_linker_1_c-terminus: failed
+[2025-10-30 07:59:08] [755/815] ✗ P01009_linker_1_n-terminus: failed
+[2025-10-30 07:59:53] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:01:08] [756/815] ✗ P01012_linker_1_n-terminus: failed
+[2025-10-30 08:01:23] [757/815] ✗ Q8WZ42_linker_14_inner: failed
+[2025-10-30 08:01:23] Checkpoint saved: 737 regions completed
+[2025-10-30 08:02:38] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:02:38] [758/815] ✗ Q8WZ42_linker_26_inner: failed
+[2025-10-30 08:03:08] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:04:25] [759/815] ✗ Q8WZ42_linker_28_inner: failed
+[2025-10-30 08:04:43] [760/815] ✗ Q8WZ42_linker_31_inner: failed
+[2025-10-30 08:05:25] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:06:40] [761/815] ✗ Q8WZ42_linker_32_inner: failed
+[2025-10-30 08:06:40] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:07:56] [762/815] ✗ Q8WZ42_linker_33_inner: failed
+[2025-10-30 08:07:56] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:07:56] Checkpoint saved: 737 regions completed
+[2025-10-30 08:09:03] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/APPPKVPKKREPVPVPVALPQEEEVLFEEEIVPEEEVLPEEEEVLPEEEEVLPEEEEVLPEEEEIPPEEEEVPPEEEYVPEEEEFVPEEEVLPEVKPKVPVPAPVPEIKKKVTEKKVVIPKKEEAPPAKVPEVPKKVEEKRIILPKEEEVLPVEVTEEPEEEPISEEEIPEEPPSIEEVEEVAPPRVPEVIKKAVPEAPTPVPKKVEAPPAKVSKKIPEEKVPVPVQKKEAPPAKVPEVPKKVPEKKVLVPKKEAVPPAKGRTVLEEKVSVAFRQEVVVKERLELEVVEAEVEEIPEEEEFHEVEEYFEEGEFHEVEEFIKLEQHRVEEEHRVEKVHRVIEVFEAEEVEVFEKPKAPPKGPEISEKIIPPKKPPTKVVPRKEPPAKVPEVPKKIVVEEKVRVPEEPRVPPTKVPEVLPPKEVVPEKKVPVPPAKKPEAPPPKVPEAPKEVVPEKKVPVPPPKKPEVPPTKVPEVPKAAVPEKKVPEAIPPKPESPPPEVPEAPKEVVPEKKVPAAPPKKPEVTPVKVPEAPKEVVPEKKVPVPPPKKPEVPPTKVPEVPKVAVPEKKVPEAIPPKPESPPPEVFEEPEEVALEEPPAEVVEEPEPAAPPQVTVPPKKPVPEKKAPAVVAKKPELPPVKVPEVPKEVVPEKKVPLVVPKKPEAPPAKVPEVPKEVVPEKKVAVPKKPEV
+[2025-10-30 08:09:03] [763/815] ✗ Q8WZ42_linker_34_inner: failed
+[2025-10-30 08:09:21] [764/815] ✗ Q8WZ42_linker_36_inner: failed
+[2025-10-30 08:10:18] [765/815] ✗ Q8WZ42_linker_39_inner: failed
+[2025-10-30 08:11:03] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:12:19] [766/815] ✗ Q8WZ42_linker_42_inner: failed
+[2025-10-30 08:12:19] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:13:36] [767/815] ✗ Q8WZ42_linker_44_inner: failed
+[2025-10-30 08:13:36] Checkpoint saved: 737 regions completed
+[2025-10-30 08:13:52] [768/815] ✗ Q8WZ42_linker_46_inner: failed
+[2025-10-30 08:14:36] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:15:52] [769/815] ✗ Q8WZ42_linker_47_inner: failed
+[2025-10-30 08:15:52] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:17:10] [770/815] ✗ Q8WZ42_linker_56_inner: failed
+[2025-10-30 08:17:26] [771/815] ✗ Q8WZ42_linker_58_inner: failed
+[2025-10-30 08:18:10] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:19:26] [772/815] ✗ Q8WZ42_linker_62_inner: failed
+[2025-10-30 08:19:27] Checkpoint saved: 737 regions completed
+[2025-10-30 08:19:42] [773/815] ✗ Q8WZ42_linker_66_inner: failed
+[2025-10-30 08:20:26] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:21:42] [774/815] ✗ Q8WZ42_linker_73_inner: failed
+[2025-10-30 08:21:56] [775/815] ✗ Q8WZ42_linker_75_inner: failed
+[2025-10-30 08:22:42] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:23:58] [776/815] ✗ Q8WZ42_linker_78_inner: failed
+[2025-10-30 08:24:19] [777/815] ✗ Q8WZ42_linker_80_inner: failed
+[2025-10-30 08:24:19] Checkpoint saved: 737 regions completed
+[2025-10-30 08:25:25] [778/815] ✗ Q8WZ42_linker_81_inner: failed
+[2025-10-30 08:26:15] [779/815] ✗ Q8WZ42_linker_82_inner: failed
+[2025-10-30 08:26:58] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:28:22] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/P
+[2025-10-30 08:28:22] [780/815] ✗ Q8WZ42_linker_83_inner: failed
+[2025-10-30 08:28:39] [781/815] ✗ Q8WZ42_linker_85_inner: failed
+[2025-10-30 08:29:37] [782/815] ✗ Q8WZ42_linker_88_inner: failed
+[2025-10-30 08:29:37] Checkpoint saved: 737 regions completed
+[2025-10-30 08:30:22] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:31:31] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/MPA
+[2025-10-30 08:31:31] [783/815] ✗ Q9Y6K1_linker_1_n-terminus: failed
+[2025-10-30 08:31:49] [784/815] ✗ P0DTD1_linker_2_inner: failed
+[2025-10-30 08:32:31] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:33:47] [785/815] ✗ P0DTD1_linker_4_inner: failed
+[2025-10-30 08:34:06] [786/815] ✗ P0DTD1_linker_12_inner: failed
+[2025-10-30 08:34:47] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:36:03] [787/815] ✗ P0DTD1_linker_14_inner: failed
+[2025-10-30 08:36:03] Checkpoint saved: 737 regions completed
+[2025-10-30 08:36:33] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:36:33] [788/815] ✗ P59594_domain_1_Spike glycoprotein [S]: failed
+[2025-10-30 08:37:03] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:38:17] Skipping Q9C0G6_domain_1_DYNEIN HEAVY CHAIN 6, AXONEMAL-LIKE-RELATED: sequence too long (3992 > 2000)
+[2025-10-30 08:38:17] [789/815] ✗ P59594_linker_1_n-terminus: failed
+[2025-10-30 08:38:17] [790/815] ✗ Q9C0G6_domain_1_DYNEIN HEAVY CHAIN 6, AXONEMAL-LIKE-RELATED: failed
+[2025-10-30 08:38:33] [791/815] ✗ Q9C0G6_linker_2_c-terminus: failed
+[2025-10-30 08:39:27] ELM request failed: 500 Server Error: Internal Server Error for url: http://elm.eu.org/start_search/P
+[2025-10-30 08:39:27] [792/815] ✗ P27487_linker_2_c-terminus: failed
+[2025-10-30 08:39:27] Checkpoint saved: 737 regions completed
+[2025-10-30 08:40:47] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:40:47] [793/815] ✗ P0A8J8_linker_1_c-terminus: failed
+[2025-10-30 08:41:31] [794/815] ✗ P0A9Q7_linker_1_n-terminus: failed
+[2025-10-30 08:42:17] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:43:32] [795/815] ✗ Q96QK1_linker_1_c-terminus: failed
+[2025-10-30 08:43:46] [796/815] ✗ P00797_linker_1_c-terminus: failed
+[2025-10-30 08:44:32] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:45:47] [797/815] ✗ P31749_linker_1_c-terminus: failed
+[2025-10-30 08:45:47] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:45:47] Checkpoint saved: 737 regions completed
+[2025-10-30 08:47:17] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:47:17] [798/815] ✗ Q9Y2X5_linker_1_n-terminus: failed
+[2025-10-30 08:47:47] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:47:47] [799/815] ✗ P07333_domain_1_Macrophage colony-stimulating factor 1 receptor: failed
+[2025-10-30 08:48:33] [800/815] ✗ P07333_linker_1_n-terminus: failed
+[2025-10-30 08:49:17] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:50:32] [801/815] ✗ P07900_linker_1_n-terminus: failed
+[2025-10-30 08:50:47] [802/815] ✗ P07900_linker_2_c-terminus: failed
+[2025-10-30 08:50:48] Checkpoint saved: 737 regions completed
+[2025-10-30 08:51:49] [803/815] ✓ O75323_domain_2_Dimeric alpha+beta barrel: 24 motifs found
+[2025-10-30 08:52:48] [804/815] ✗ P49747_linker_2_c-terminus: failed
+[2025-10-30 08:54:02] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:54:02] [805/815] ✗ Q9Y2W1_domain_1_THRAP3/BCLAF1: failed
+[2025-10-30 08:55:02] ELM request failed: HTTPConnectionPool(host='elm.eu.org', port=80): Read timed out. (read timeout=30)
+[2025-10-30 08:55:02] Skipping Q9H4W0_linker_1_n-terminus: sequence too long (3487 > 2000)
+[2025-10-30 08:55:02] [806/815] ✗ Q86YZ3_linker_1_inner: failed
+[2025-10-30 08:55:02] [807/815] ✗ Q9H4W0_linker_1_n-terminus: failed
+[2025-10-30 08:55:03] Checkpoint saved: 738 regions completed
+[2025-10-30 08:56:00] [808/815] ✗ P61981_linker_1_n-terminus: failed
+[2025-10-30 08:56:32] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 08:57:56] [809/815] ✗ P08670_linker_1_n-terminus: failed
+[2025-10-30 08:58:16] [810/815] ✗ P0A799_linker_1_n-terminus: failed
+[2025-10-30 08:59:11] [811/815] ✗ P0A799_linker_2_c-terminus: failed
+[2025-10-30 09:00:24] [812/815] ✗ P0A7L0_linker_1_n-terminus: failed
+[2025-10-30 09:00:25] Checkpoint saved: 738 regions completed
+[2025-10-30 09:01:13] [813/815] ✗ P0A7G2_linker_1_n-terminus: failed
+[2025-10-30 09:02:22] [814/815] ✗ P0A7J3_linker_1_n-terminus: failed
+[2025-10-30 09:02:56] Rate limit hit (429), waiting 60s and retrying...
+[2025-10-30 09:04:11] [815/815] ✗ P0A7J7_linker_1_n-terminus: failed
+[2025-10-30 09:04:12] Checkpoint saved: 738 regions completed
+[2025-10-30 09:04:12] 
+============================================================
+[2025-10-30 09:04:12] ELM ANALYSIS SUMMARY
+[2025-10-30 09:04:12] ============================================================
+[2025-10-30 09:04:12] Domains analyzed:      591
+[2025-10-30 09:04:12] N-terminus linkers:    30
+[2025-10-30 09:04:12] C-terminus linkers:    32
+[2025-10-30 09:04:12] Inner linkers:         85
+[2025-10-30 09:04:12] Total motifs found:    20900
+[2025-10-30 09:04:12] ============================================================
+
+[2025-10-30 09:04:12] ✓ Saved ELM results to /home2/pospisil/projects/protein_linkers/elm_results.json
+[2025-10-30 09:04:12] ✓ Saved ELM results to /home2/pospisil/projects/protein_linkers/elm_results.csv
+[2025-10-30 09:04:12] 
+============================================================
+[2025-10-30 09:04:12] ELM ANALYSIS COMPLETE!
+[2025-10-30 09:04:12] Results saved to:
+[2025-10-30 09:04:12]   - /home2/pospisil/projects/protein_linkers/elm_results.json
+[2025-10-30 09:04:12]   - /home2/pospisil/projects/protein_linkers/elm_results.csv
+[2025-10-30 09:04:12]   - /home2/pospisil/projects/protein_linkers/elm_analysis.log
+[2025-10-30 09:04:12] ============================================================
+
