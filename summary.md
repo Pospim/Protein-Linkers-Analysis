@@ -1,6 +1,6 @@
 TO DO
 
-1\. length clusters - histogram -> AA composition for short, mid, long
+1\. elm -> overall domain X linker, then domain X Type1 X Type2....
 
 2\. elm -> common motives for certain group (s, m, l | c-,n-,inner)
 
@@ -10,9 +10,6 @@ TO DO
 
 4\. phosphorylation + glycosylation
 
-
-
-\- remove outliers + polyHis in C-,N- terminals
 
 \- Some non-domain regions have high disorder predicted -> are these linkers too?
 

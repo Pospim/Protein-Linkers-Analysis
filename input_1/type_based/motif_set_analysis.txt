@@ -1,0 +1,82 @@
+
+#1. COMMON IN ALL THREE TYPES
+Motif	N	C	I	Total
+MOD_GlcNHglycan	36	30	150	216
+MOD_GSK3_1	18	12	174	204
+CLV_PCSK_SKI1_1                           N:  12 C:  12 I: 174 | Total:  198
+MOD_CK2_1                                 N:  18 C:  12 I: 150 | Total:  180
+DOC_WW_Pin1_4                             N:  18 C:  12 I: 138 | Total:  168
+MOD_ProDKin_1                             N:  18 C:  12 I: 138 | Total:  168
+LIG_SH3_3                                 N:  24 C:   6 I: 126 | Total:  156
+DOC_USP7_MATH_1                           N:  12 C:  18 I: 120 | Total:  150
+LIG_LIR_Nem_3                             N:   6 C:   6 I: 132 | Total:  144
+LIG_FHA_2                                 N:   6 C:   6 I: 132 | Total:  144
+DEG_Nend_UBRbox_2                         N:  12 C:  42 I:  90 | Total:  144
+DOC_USP7_UBL2_3                           N:  12 C:  12 I: 114 | Total:  138
+LIG_BIR_II_1                              N:  48 C:  30 I:  54 | Total:  132
+DEG_Nend_Nbox_1                           N:   6 C:  24 I:  84 | Total:  114
+DEG_Nend_UBRbox_1                         N:  18 C:  12 I:  66 | Total:   96
+MOD_PKA_2                                 N:  12 C:   6 I:  78 | Total:   96
+MOD_N-GLC_1                               N:   6 C:   6 I:  84 | Total:   96
+MOD_PIKK_1                                N:   6 C:  12 I:  60 | Total:   78
+LIG_Arc_Nlobe_1                           N:   6 C:   6 I:  66 | Total:   78
+DEG_Nend_UBRbox_3                         N:   6 C:  24 I:  12 | Total:   42
+TRG_ER_diLys_1                            N:   6 C:   6 I:  24 | Total:   36
+LIG_PDZ_Class_2                           N:   6 C:   6 I:  24 | Total:   36
+DEG_SPOP_SBC_1                            N:   6 C:   6 I:  18 | Total:   30
+
+2. COMMON IN N & C ONLY
+--------------------------------------------------------------------------------
+
+3. COMMON IN N & I ONLY
+--------------------------------------------------------------------------------
+LIG_FHA_1                                | N:   6 I: 216 | Total:  222
+MOD_Plk_4                                | N:  12 I: 144 | Total:  156
+LIG_14-3-3_CanoR_1                       | N:  18 I: 120 | Total:  138
+LIG_SUMO_SIM_par_1                       | N:   6 I: 114 | Total:  120
+CLV_NRD_NRD_1                            | N:   6 I:  96 | Total:  102
+CLV_PCSK_KEX2_1                          | N:   6 I:  84 | Total:   90
+MOD_CDK_SPxxK_3                          | N:   6 I:  66 | Total:   72
+MOD_NEK2_2                               | N:   6 I:  48 | Total:   54
+LIG_SH3_2                                | N:   6 I:  36 | Total:   42
+TRG_ER_diArg_1                           | N:  12 I:  24 | Total:   36
+LIG_UBA3_1                               | N:   6 I:  30 | Total:   36
+DOC_CKS1_1                               | N:  12 I:  18 | Total:   30
+TRG_NLS_MonoExtN_4                       | N:   6 I:  24 | Total:   30
+TRG_Oom_RxLR_1                           | N:   6 I:  24 | Total:   30
+DEG_Nend_UBRbox_4                        | N:   6 I:  18 | Total:   24
+LIG_SH3_4                                | N:   6 I:  18 | Total:   24
+LIG_BIR_III_3                            | N:  18 I:   6 | Total:   24
+MOD_CDK_SPK_2                            | N:   6 I:  18 | Total:   24
+CLV_Separin_Metazoa                      | N:   6 I:  12 | Total:   18
+MOD_DYRK1A_RPxSP_1                       | N:   6 I:  12 | Total:   18
+
+4. COMMON IN C & I ONLY
+--------------------------------------------------------------------------------
+LIG_WD40_WDR5_VDV_2                      | C:  24 I: 270 | Total:  294
+MOD_CK1_1                                | C:  18 I: 138 | Total:  156
+MOD_SUMO_for_1                           | C:  12 I:  78 | Total:   90
+CLV_C14_Caspase3-7                       | C:  12 I:  66 | Total:   78
+LIG_BRCT_BRCA1_1                         | C:   6 I:  54 | Total:   60
+DOC_PP1_RVXF_1                           | C:   6 I:  54 | Total:   60
+DOC_PP2A_B56_1                           | C:   6 I:  36 | Total:   42
+LIG_PDZ_Class_3                          | C:   6 I:  24 | Total:   30
+MOD_CDK_SPxK_1                           | C:   6 I:  24 | Total:   30
+DEG_CRBN_cyclicCter_1                    | C:   6 I:  18 | Total:   24
+DEG_SCF_TRCP1_1                          | C:   6 I:  12 | Total:   18
+DEG_Cend_KLHDC2_1                        | C:   6 I:  12 | Total:   18
+DOC_CYCLIN_RxL_1                         | C:   6 I:  12 | Total:   18
+LIG_PDZ_Class_1                          | C:   6 I:  12 | Total:   18
+MOD_CDC14_SPxK_1                         | C:   6 I:  12 | Total:   18
+LIG_14-3-3_CterR_2                       | C:   6 I:   6 | Total:   12
+LIG_NRBOX                                | C:   6 I:   6 | Total:   12
+LIG_WW_3                                 | C:   6 I:   6 | Total:   12
+LIG_GBD_Chelix_1                         | C:   6 I:   6 | Total:   12
+LIG_CAP-Gly_1                            | C:   6 I:   6 | Total:   12
+
+5. UNIQUE TO N-TERMINUS
+--------------------------------------------------------------------------------
+MOD_PKB_1                                | Count:   6
+
+6. UNIQUE TO C-TERMINUS			 | Count:   0
+--------------------------------------------------------------------------------

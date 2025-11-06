@@ -53,6 +53,7 @@ ipython_config.py
 *.pickle
 *.h5
 *.hdf5
+*.txt
 
 # Plots and outputs
 *.png

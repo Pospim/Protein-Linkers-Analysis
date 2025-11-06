@@ -1,0 +1,86 @@
+======================================================================
+MOTIF DISTRIBUTION BY LENGTH
+======================================================================
+
+DOMAINS:
+  Total regions: 601
+  Regions with motifs: 591 (98.3%)
+  Total motif occurrences: 171846
+  Unique motifs: 264
+
+  Top 10 motifs:
+     1. LIG_WD40_WDR5_VDV_2: 4923
+     2. MOD_GSK3_1: 4230
+     3. LIG_FHA_1: 4212
+     4. LIG_SH2_STAT5: 4149
+     5. LIG_LIR_Nem_3: 3960
+     6. CLV_PCSK_SKI1_1: 3699
+     7. MOD_Plk_4: 3636
+     8. MOD_GlcNHglycan: 3591
+     9. MOD_Plk_1: 3411
+    10. MOD_CK2_1: 3330
+
+SHORT LINKERS:
+  Total regions: 76
+  Regions with motifs: 34 (44.7%)
+  Total motif occurrences: 1824
+  Unique motifs: 89
+
+  Top 10 motifs:
+     1. LIG_WD40_WDR5_VDV_2: 78
+     2. LIG_FHA_1: 66
+     3. CLV_PCSK_SKI1_1: 60
+     4. DEG_Nend_UBRbox_2: 60
+     5. MOD_CK1_1: 48
+     6. LIG_SUMO_SIM_par_1: 48
+     7. LIG_SH2_STAT5: 48
+     8. MOD_Plk_4: 42
+     9. MOD_CK2_1: 42
+    10. DOC_WW_Pin1_4: 42
+
+MEDIUM LINKERS:
+  Total regions: 52
+  Regions with motifs: 42 (80.8%)
+  Total motif occurrences: 1668
+  Unique motifs: 103
+
+  Top 10 motifs:
+     1. MOD_GlcNHglycan: 66
+     2. LIG_WD40_WDR5_VDV_2: 60
+     3. LIG_BIR_II_1: 54
+     4. DEG_Nend_UBRbox_2: 48
+     5. MOD_GSK3_1: 48
+     6. MOD_CK2_1: 42
+     7. DOC_USP7_UBL2_3: 42
+     8. MOD_Plk_1: 42
+     9. MOD_N-GLC_1: 42
+    10. DOC_USP7_MATH_1: 42
+
+LONG LINKERS:
+  Total regions: 64
+  Regions with motifs: 48 (75.0%)
+  Total motif occurrences: 4044
+  Unique motifs: 127
+
+  Top 10 motifs:
+     1. LIG_WD40_WDR5_VDV_2: 156
+     2. LIG_FHA_1: 120
+     3. MOD_GSK3_1: 114
+     4. MOD_GlcNHglycan: 114
+     5. CLV_PCSK_SKI1_1: 102
+     6. DOC_WW_Pin1_4: 102
+     7. MOD_ProDKin_1: 102
+     8. LIG_14-3-3_CanoR_1: 102
+     9. MOD_CK2_1: 96
+    10. LIG_SH3_3: 90
+
+======================================================================
+OVERALL COMPARISON
+======================================================================
+
+Group                Total      With Motifs     %        Total Motifs    Unique    
+--------------------------------------------------------------------------------
+Domains              601        591             98.3   % 171846          264       
+Short Linkers        76         34              44.7   % 1824            89        
+Medium Linkers       52         42              80.8   % 1668            103       
+Long Linkers         64         48              75.0   % 4044            127      
