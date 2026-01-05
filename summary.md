@@ -1,6 +1,31 @@
-TO DO
+GOAL: Wider Annotation of Proteins
+    - linkers are "blackbox"
 
-1\. elm -> overall domain X linker, then domain X Type1 X Type2....
+1. Protein Space
+        - cytoplasmic/intracellular (keeps the cell running, best-annotated)
+                                                                => GO-Term filtering
+        - eucaryotic (most studied)
+
+2.
+            ?What is specific for linkers and for domains?
+   domain   |
+             -> differences, exclusivity. commonality
+   protein  |
+
+3. Cath,
+    y - log(count)
+    x - number of domains
+
+4. domain disorder, linker disorder
+   unique domains in multidomain proteins
+
+TODO
+1\. set of HUMAN INTRACELLULAR proteins
+
+
+
+
+1\. elm -> overall domain X linker, then domain X inner X n- X c-
 
 2\. elm -> common motives for certain group (s, m, l | c-,n-,inner)
 
@@ -19,16 +44,15 @@ TO DO
 
 \- disorder X secundary structure relationship
 
+\- cluster based on length, type, disorder
+
 -----------------------------------------------------------------------------
 
 
+What really are protein linkers?
+
 
 Interpro uses two complementary domain annotations:
-
-'Representative domains' are consensus sequence-based annotations derived from databases such as Pfam, SMART etc.
-
-'TED domains' are automatically predicted structure-based segments from AlphaFold models.
-
 Representative domains reflect curated functional units while TED domains reflect compact structural units that may merge, split or overlap those curated regions.
 
 
@@ -45,11 +69,11 @@ Each underlying member database uses its own annotation method, such as:
 
 
 
-&nbsp;	ATH-Gene3D – structure-based HMMs derived from 3D domain definitions
+&nbsp;	CATH-Gene3D – structure-based HMMs derived from 3D domain definitions
 
 
 
-&nbsp;	DD – PSSMs (position-specific scoring matrices)
+&nbsp;	CDD – PSSMs (position-specific scoring matrices)
 
 
 

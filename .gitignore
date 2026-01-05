@@ -2,6 +2,11 @@
 fldpnn
 
 *.pdf
+*.pdb
+*.gz
+*.cif
+*.a3m
+*.hhm
 
 # Python
 __pycache__/
