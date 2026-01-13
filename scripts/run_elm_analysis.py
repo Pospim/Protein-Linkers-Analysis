@@ -24,10 +24,8 @@ import requests
 import time
 import json
 import os
-import sys
 import argparse
 from concurrent.futures import ThreadPoolExecutor, as_completed
-from collections import defaultdict, Counter
 import threading
 from datetime import datetime
 
